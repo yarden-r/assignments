@@ -1,3 +1,6 @@
+Good Link, depth: 0
+	http://www.google.com
+	HomePage
 Good Link, depth: 1
 	https://mail.google.com/mail/?tab=wm&ogbl
 	Gmail
@@ -18,10 +21,10 @@ Good Link, depth: 1
 Broken Link, depth: 1
 	/advanced_search?hl=iw&authuser=0
 Good Link, depth: 1
-	https://www.google.com/setprefs?sig=0_HkLaLCcXOf654bvq2DPL-H9YrOs%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwjz46yIqbD5AhV5QfEDHVGQBVgQ2ZgBCAQ
+	https://www.google.com/setprefs?sig=0_gPSACBaKmt79cODfYo78gcfVDTM%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwjD9d3oqbD5AhWQXvEDHdV9AI0Q2ZgBCAQ
 	العربية
 Good Link, depth: 1
-	https://www.google.com/setprefs?sig=0_HkLaLCcXOf654bvq2DPL-H9YrOs%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjz46yIqbD5AhV5QfEDHVGQBVgQ2ZgBCAU
+	https://www.google.com/setprefs?sig=0_gPSACBaKmt79cODfYo78gcfVDTM%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjD9d3oqbD5AhWQXvEDHdV9AI0Q2ZgBCAU
 	English
 Broken Link, depth: 1
 	/intl/iw/ads/
@@ -31,7 +34,7 @@ Good Link, depth: 1
 Broken Link, depth: 1
 	/intl/iw/about.html
 Good Link, depth: 1
-	https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=K_i2evkz46x2Xh0WQr1FibN14suzQ%3D
+	https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=K_Eiv_9Jl6IjAfwuv0_3WLviZ_KFI%3D
 	Google.co.il
 Broken Link, depth: 1
 	/intl/iw/policies/privacy/

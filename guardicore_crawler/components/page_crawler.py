@@ -28,9 +28,9 @@ class PageCrawler(object):
             print("adding broken url: {}")
             self.report.insert_item(BrokenUrl(self.depth, self.url))
             return
+        print("added good url")
+        self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
         if self.depth == self.max_depth:
-            print("added good url")
-            self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
             return
         print("depth: {}".format(self.depth))
         self.depth += 1
