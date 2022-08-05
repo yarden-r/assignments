@@ -9,7 +9,9 @@ class Logger(object):
     def __init__(self,file:FileController):
         self.file = file
 
-    def log(self,message:str):
+    def log(self,message):
+        if not type(message) is str:
+            raise TypeError('message must be of type str')
         with self.file as f:
             f.write(message + '\n')
             f.close()

@@ -9,6 +9,20 @@ class Url(ReportItem):
     def __str__(self):
         return self.name
 
+class Animal(ReportItem):
+    def __init__(self,name, description):
+        super().__init__(name)
+        self.description = description
+
+    def __str__(self):
+        return self.name + ': ' + self.description
+
+class BrokenUrl(ReportItem):
+    def __init__(self,url):
+        super().__init__(url)
+
+    def __str__(self):
+        return self.name + ' - Broken'
 class TestReport(unittest.TestCase):
     
     def setUp(self):
@@ -22,7 +36,6 @@ class TestReport(unittest.TestCase):
         url2 = Url('http://www.google.com')
         url3 = Url('http://www.ebay.com')
 
-        print("the type outside method is ", type(url1))
         self.rep.insert_item(url1)
         self.rep.insert_item(url2)
         self.rep.insert_item(url3)
@@ -59,4 +72,20 @@ class TestReport(unittest.TestCase):
         self.rep = None
 
 if __name__ == "__main__":
-    unittest.main()
+    # unittest.main()
+
+    animal1 = Animal('cat', 'cute and furry')
+    animal2 = Animal('dog', 'happy and hungry')
+    animal3 = Animal('rhino', 'angry and loud')
+
+    rep = Report('test.txt')
+    rep.clear()
+    rep.insert_item(animal1)
+    rep.insert_item(animal2)
+    rep.insert_item(animal3)
+
+    broken1 = BrokenUrl('http://www.google.com')
+    broken2 = BrokenUrl('http://www.google.com')
+
+    rep.insert_item(broken1)
+    rep.insert_item(broken2)

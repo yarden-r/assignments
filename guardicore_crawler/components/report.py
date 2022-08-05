@@ -29,7 +29,6 @@ class Report(Singleton):
             self.__add_item_to_map(item.name)
             self.__write(item)
             self.item_counter += 1
-            print('insert_item passed')
 
     def get_num_of_items(self):
         return self.item_counter
