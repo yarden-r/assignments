@@ -14,7 +14,7 @@ class TestReport(unittest.TestCase):
         self.rep.insert_item('http://www.google.com')
         self.rep.insert_item('http://www.ebay.com')
 
-        self.assertEqual(self.rep.count_items(),3)
+        self.assertEqual(self.rep.get_num_of_items(),3)
         self.assertTrue(self.rep.is_visited('http://www.amazon.com'))
         self.assertTrue(self.rep.is_visited('http://www.google.com'))
         self.assertTrue(self.rep.is_visited('http://www.ebay.com'))
@@ -34,15 +34,15 @@ class TestReport(unittest.TestCase):
         self.rep.insert_item('http://www.google.com')
         self.rep.insert_item('http://www.google.com')
 
-        self.assertEqual(self.rep.count_items(),1)
+        self.assertEqual(self.rep.get_num_of_items(),1)
         with open(self.filename,'r') as f:
             lines = f.readlines()
             self.assertEqual(len(lines),1)
             self.assertEqual(lines[0],'http://www.google.com\n')
-            
-    # def tearDown(self):
-    #     self.rep.clear()
-    #     self.rep = None
+
+    def tearDown(self):
+        self.rep.clear()
+        self.rep = None
 
 if __name__ == "__main__":
     unittest.main()

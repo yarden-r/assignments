@@ -13,6 +13,7 @@ class Report(Singleton):
         f = FileController(filename,'a')
         self.logger = Logger(f)
         self.tracker_map = {}
+        self.item_counter = 0
     
     def clear(self):
         self.logger.clear_log()
@@ -24,10 +25,11 @@ class Report(Singleton):
         if not self.is_visited(item):
             self.__add_item_to_map(item)
             self.__write(item)
+            self.item_counter += 1
 
-    def count_items(self):
-        return len(self.tracker_map)
-        
+    def get_num_of_items(self):
+        return self.item_counter
+
 # private methods
     def __write(self,message):
         self.logger.log(message)
