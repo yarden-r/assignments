@@ -1,5 +1,7 @@
-from logger import Logger
-from file_controller import FileController
+from guardicore_crawler.helpers.logger import Logger
+
+from helpers.file_controller import FileController
+
 import unittest
 
 class TestLogger(unittest.TestCase):
