@@ -26,6 +26,7 @@ class TestReport(unittest.TestCase):
             self.assertEqual(lines[1],'http://www.google.com\n')
             self.assertEqual(lines[2],'http://www.ebay.com\n')
 
+        print('test_write passed')
         
 
     def test_no_duplicates(self):
@@ -40,6 +41,8 @@ class TestReport(unittest.TestCase):
             self.assertEqual(len(lines),1)
             self.assertEqual(lines[0],'http://www.google.com\n')
 
+        print('test_no_duplicates passed')
+        
     def tearDown(self):
         self.rep.clear()
         self.rep = None
