@@ -1,4 +1,4 @@
-from file_controller import FileController
+from guardicore_crawler.helpers.file_controller import FileController
 
 class Logger(object):
     def __init__(self,file:FileController):

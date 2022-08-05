@@ -1,7 +1,7 @@
-import singleton
+from guardicore_crawler.helpers.singleton import Singleton
 
 # Create a singleton person object
-class Person(singleton.Singleton):
+class Person(Singleton):
     def __init__(self, name, age):
         self.name = name
         self.age = age

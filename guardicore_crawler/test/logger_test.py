@@ -1,6 +1,6 @@
 from guardicore_crawler.helpers.logger import Logger
 
-from helpers.file_controller import FileController
+from guardicore_crawler.helpers.file_controller import FileController
 
 import unittest
 
