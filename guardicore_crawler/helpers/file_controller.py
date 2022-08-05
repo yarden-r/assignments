@@ -1,4 +1,8 @@
+"""
+    Controls opening and closing of a file.
+"""
 class FileController(object):
+    
     def __init__(self, filename, mode):
         self.filename = filename
         self.file = None
@@ -24,5 +28,9 @@ class FileController(object):
             print('Error: {}'.format(exc_value))
             return False
         return True
+
+    def __del__(self):
+        if self.file is not None:
+            self.file.close()
 
 
