@@ -7,7 +7,7 @@ class Url(ReportItem):
         super().__init__(url)
 
     def __str__(self):
-        return self.url
+        return self.name
 
 class TestReport(unittest.TestCase):
     
@@ -18,16 +18,16 @@ class TestReport(unittest.TestCase):
 
     def test_write(self):
         self.rep.clear()
-        url1 = Url('http://www.google.com')
+        url1 = Url('http://www.amazon.com')
+        url2 = Url('http://www.google.com')
+        url3 = Url('http://www.ebay.com')
+
         print("the type outside method is ", type(url1))
-        self.rep.insert_item(Url('http://www.amazon.com'))
         self.rep.insert_item(url1)
-        self.rep.insert_item(Url('http://www.ebay.com'))
+        self.rep.insert_item(url2)
+        self.rep.insert_item(url3)
 
         self.assertEqual(self.rep.get_num_of_items(),3)
-        self.assertTrue(self.rep.is_visited(Url('http://www.amazon.com')))
-        self.assertTrue(self.rep.is_visited(Url('http://www.google.com')))
-        self.assertTrue(self.rep.is_visited(Url('http://www.ebay.com')))
 
         with open(self.filename,'r') as f:
             lines = f.readlines()
