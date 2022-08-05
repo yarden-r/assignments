@@ -26,5 +26,6 @@ class TestLogger(unittest.TestCase):
         logger.log('Hello World')
         with open(filename, 'r') as f:
             self.assertEqual(f.read(), 'Hello World\nHello World\n')
+            
 if __name__ == '__main__':
     unittest.main()
