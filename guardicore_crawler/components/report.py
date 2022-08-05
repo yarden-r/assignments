@@ -26,7 +26,7 @@ class Report(Singleton):
         if not issubclass(type(item),ReportItem):
             raise TypeError('item must be of type ReportItem')
             
-        if not self.is_visited(item):
+        if not self.contains_name(item.name):
             self.__add_item_to_map(item.name)
             self.__write(item)
             self.item_counter += 1
@@ -36,8 +36,8 @@ class Report(Singleton):
     def get_num_of_items(self):
         return self.item_counter
 
-    def is_visited(self,item):
-        return self.tracker_map.get(item.name) is not None
+    def contains_name(self,name):
+        return self.tracker_map.get(name) is not None
     
 # private methods
     def __write(self, item):

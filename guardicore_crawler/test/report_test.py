@@ -77,12 +77,14 @@ if __name__ == "__main__":
     animal1 = Animal('cat', 'cute and furry')
     animal2 = Animal('dog', 'happy and hungry')
     animal3 = Animal('rhino', 'angry and loud')
+    animal4 = animal1
 
     rep = Report('test.txt')
     rep.clear()
     rep.insert_item(animal1)
     rep.insert_item(animal2)
     rep.insert_item(animal3)
+    rep.insert_item(animal4)
 
     broken1 = BrokenUrl('http://www.google.com')
     broken2 = BrokenUrl('http://www.google.com')

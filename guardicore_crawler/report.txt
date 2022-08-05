@@ -1,0 +1,39 @@
+Good Link, depth: 1
+	https://mail.google.com/mail/?tab=wm&ogbl
+	Gmail
+Good Link, depth: 1
+	https://www.google.co.il/imghp?hl=iw&tab=wi&ogbl
+	חיפוש תמונות
+Good Link, depth: 1
+	https://www.google.co.il/intl/iw/about/products?tab=wh
+	
+Good Link, depth: 1
+	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.com/%3Fgws_rd%3Dssl&ec=GAZAAQ
+	כניסה
+Broken Link, depth: 1
+	#
+Good Link, depth: 1
+	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
+	להתקנה
+Broken Link, depth: 1
+	/advanced_search?hl=iw&authuser=0
+Good Link, depth: 1
+	https://www.google.com/setprefs?sig=0_HkLaLCcXOf654bvq2DPL-H9YrOs%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwjz46yIqbD5AhV5QfEDHVGQBVgQ2ZgBCAQ
+	العربية
+Good Link, depth: 1
+	https://www.google.com/setprefs?sig=0_HkLaLCcXOf654bvq2DPL-H9YrOs%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjz46yIqbD5AhV5QfEDHVGQBVgQ2ZgBCAU
+	English
+Broken Link, depth: 1
+	/intl/iw/ads/
+Good Link, depth: 1
+	http://www.google.co.il/intl/iw/services/
+	פתרונות עסקיים
+Broken Link, depth: 1
+	/intl/iw/about.html
+Good Link, depth: 1
+	https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=K_i2evkz46x2Xh0WQr1FibN14suzQ%3D
+	Google.co.il
+Broken Link, depth: 1
+	/intl/iw/policies/privacy/
+Broken Link, depth: 1
+	/intl/iw/policies/terms/
