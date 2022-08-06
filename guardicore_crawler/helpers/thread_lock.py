@@ -1,5 +1,5 @@
 from threading import Lock
-class ThreadLock:
+class ThreadLock(object):
     def __init__ (self):
         self.my_lock = Lock()
     # def lock (self):
@@ -8,15 +8,15 @@ class ThreadLock:
     # def unlock (self):
     #     with self.lock:
     #         return self.lock.release()
-    def lock (self):
-        self.my_lock.acquire()
-    
-    def unlock (self):
-        self.my_lock.release()
 
     def __enter__ (self):
-        self.lock()
-    def __exit__ (self, type, value, traceback):
-        self.unlock()
+        self.my_lock.acquire()
+        return self
+
+
+
+
+    def __exit__ (self, exc_type, exc_value, traceback):
+        self.my_lock.release()
         return False
     
