@@ -1,42 +1,2531 @@
 Good Link, depth: 0
-	http://www.google.com
+	https://pythonprogramming.net/parsememcparseface/
 	HomePage
-Good Link, depth: 1
-	https://mail.google.com/mail/?tab=wm&ogbl
-	Gmail
-Good Link, depth: 1
-	https://www.google.co.il/imghp?hl=iw&tab=wi&ogbl
-	חיפוש תמונות
-Good Link, depth: 1
-	https://www.google.co.il/intl/iw/about/products?tab=wh
-	
-Good Link, depth: 1
-	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.com/%3Fgws_rd%3Dssl&ec=GAZAAQ
-	כניסה
+Broken Link, depth: 1
+	/
 Broken Link, depth: 1
 	#
-Good Link, depth: 1
-	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
-	להתקנה
 Broken Link, depth: 1
-	/advanced_search?hl=iw&authuser=0
-Good Link, depth: 1
-	https://www.google.com/setprefs?sig=0_gPSACBaKmt79cODfYo78gcfVDTM%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwjD9d3oqbD5AhWQXvEDHdV9AI0Q2ZgBCAQ
-	العربية
-Good Link, depth: 1
-	https://www.google.com/setprefs?sig=0_gPSACBaKmt79cODfYo78gcfVDTM%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjD9d3oqbD5AhWQXvEDHdV9AI0Q2ZgBCAU
-	English
+	/+=1/
 Broken Link, depth: 1
-	/intl/iw/ads/
+	/support/
+Broken Link, depth: 1
+	/register/
+Broken Link, depth: 1
+	/login/
+Broken Link, depth: 1
+	/sitemap.xml
+Broken Link, depth: 1
+	/support-donate/
+Broken Link, depth: 1
+	/consulting/
+Broken Link, depth: 1
+	/about/tos/
+Broken Link, depth: 1
+	/about/privacy-policy/
 Good Link, depth: 1
-	http://www.google.co.il/intl/iw/services/
-	פתרונות עסקיים
-Broken Link, depth: 1
-	/intl/iw/about.html
+	https://xkcd.com/353/
+	Programming is a superpower.
+Broken Link, depth: 2
+	/archive
+Broken Link, depth: 2
+	/about
+Broken Link, depth: 2
+	/atom.xml
+Broken Link, depth: 2
+	/newsletter/
 Good Link, depth: 1
-	https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=K_Eiv_9Jl6IjAfwuv0_3WLviZ_KFI%3D
-	Google.co.il
+	https://www.facebook.com/pythonprogramming.net/
+	Facebook
+Good Link, depth: 1
+	https://twitter.com/sentdex
+	Twitter
+Broken Link, depth: 2
+	/books/
+Broken Link, depth: 2
+	/what-if-2/
+Broken Link, depth: 2
+	/what-if/
+Broken Link, depth: 2
+	/thing-explainer/
+Broken Link, depth: 2
+	/how-to/
+Broken Link, depth: 2
+	/
+Broken Link, depth: 2
+	/1/
+Broken Link, depth: 2
+	/352/
+Broken Link, depth: 2
+	//c.xkcd.com/random/comic/
+Broken Link, depth: 2
+	/354/
+Broken Link, depth: 2
+	//xkcd.com/1732/
+Broken Link, depth: 2
+	/rss.xml
+Broken Link, depth: 2
+	/atom.xml
+Broken Link, depth: 2
+	/newsletter/
+Broken Link, depth: 2
+	/license.html
+Good Link, depth: 1
+	https://goo.gl/7zgAVQ
+	Community
+Good Link, depth: 2
+	https://www.homestuck.com/
+	Homestuck
+Good Link, depth: 2
+	https://xkcd.com/what-if-2/
+	
+Good Link, depth: 2
+	https://what-if.xkcd.com
+	What If?
+Good Link, depth: 2
+	https://www.jspowerhour.com/
+	Junior Scientist Power Hour
+Good Link, depth: 2
+	https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597
+	Tips on technology and government
+Good Link, depth: 2
+	https://legal.twitter.com/imprint.html
+	Imprint
+Good Link, depth: 2
+	https://twitter.com/xkcd/
+	TW
+Good Link, depth: 2
+	https://www.facebook.com/TheXKCD/
+	FB
+Good Link, depth: 2
+	https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+	Ads info
+Good Link, depth: 2
+	https://oglaf.com/
+	Oglaf
+Good Link, depth: 2
+	https://xkcd.com/353
+	https://xkcd.com/353/
+Good Link, depth: 2
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 2
+	http://www.buttercupfestival.com/
+	Buttercup Festival
+Good Link, depth: 2
+	https://help.twitter.com/using-twitter/twitter-supported-browsers
+	Help Center
+Good Link, depth: 2
+	https://twitter.com/KHayhoe
+	Katharine Hayhoe
+Good Link, depth: 2
+	https://twitter.com/tos
+	Terms of Service
+Good Link, depth: 2
+	http://threewordphrase.com/
+	Three Word Phrase
+Good Link, depth: 2
+	https://questionablecontent.net/
+	Questionable Content
+Good Link, depth: 2
+	https://sites.prh.com/whatif2
+	enter our contest
+Good Link, depth: 2
+	https://pbfcomics.com/
+	Perry Bible Fellowship
+Good Link, depth: 2
+	https://creativecommons.org/licenses/by-nc/2.5/
+	Creative Commons Attribution-NonCommercial 2.5 License
+Good Link, depth: 1
+	https://instagram.com/sentdex
+	Instagram
+Good Link, depth: 2
+	https://imgs.xkcd.com/comics/python.png
+	https://imgs.xkcd.com/comics/python.png
+Good Link, depth: 1
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+	Beautiful Soup 4
+Broken Link, depth: 2
+	https://www.qwantz.com
+Good Link, depth: 2
+	https://www.asofterworld.com
+	A Softer World
+Good Link, depth: 2
+	https://support.twitter.com/articles/20170514
+	Cookie Policy
+Good Link, depth: 2
+	https://www.smbc-comics.com/
+	SMBC
+Good Link, depth: 2
+	https://www.instagram.com/xkcd/
+	IG
+Good Link, depth: 2
+	https://blag.xkcd.com
+	Blag
+Broken Link, depth: 2
+	genindex.html
+Broken Link, depth: 2
+	
+Broken Link, depth: 2
+	#
+Broken Link, depth: 2
+	#beautiful-soup-documentation
+Broken Link, depth: 2
+	#porting-code-to-bs4
+Broken Link, depth: 2
+	#getting-help
+Broken Link, depth: 2
+	#diagnose
+Broken Link, depth: 2
+	#quick-start
+Broken Link, depth: 2
+	#installing-beautiful-soup
+Broken Link, depth: 2
+	#installing-a-parser
+Broken Link, depth: 2
+	#differences-between-parsers
+Broken Link, depth: 2
+	#making-the-soup
+Broken Link, depth: 2
+	#id17
+Broken Link, depth: 2
+	#kinds-of-objects
+Broken Link, depth: 2
+	#tag
+Broken Link, depth: 2
+	#navigating-the-tree
+Broken Link, depth: 2
+	#searching-the-tree
+Broken Link, depth: 2
+	#name
+Broken Link, depth: 2
+	#attributes
+Broken Link, depth: 2
+	#multi-valued-attributes
+Broken Link, depth: 2
+	#navigablestring
+Broken Link, depth: 2
+	#replace-with
+Broken Link, depth: 2
+	#beautifulsoup
+Broken Link, depth: 2
+	#modifying-the-tree
+Broken Link, depth: 2
+	#comments-and-other-special-strings
+Broken Link, depth: 2
+	#going-down
+Broken Link, depth: 2
+	#navigating-using-tag-names
+Broken Link, depth: 2
+	#contents-and-children
+Broken Link, depth: 2
+	#descendants
+Broken Link, depth: 2
+	#string
+Broken Link, depth: 2
+	#strings-and-stripped-strings
+Broken Link, depth: 2
+	#going-up
+Broken Link, depth: 2
+	#parent
+Broken Link, depth: 2
+	#parents
+Broken Link, depth: 2
+	#going-sideways
+Broken Link, depth: 2
+	#next-sibling-and-previous-sibling
+Broken Link, depth: 2
+	#next-siblings-and-previous-siblings
+Broken Link, depth: 2
+	#going-back-and-forth
+Broken Link, depth: 2
+	#next-element-and-previous-element
+Broken Link, depth: 2
+	#next-elements-and-previous-elements
+Broken Link, depth: 2
+	#kinds-of-filters
+Broken Link, depth: 2
+	#a-string
+Broken Link, depth: 2
+	#a-regular-expression
+Broken Link, depth: 2
+	#a-list
+Broken Link, depth: 2
+	#true
+Broken Link, depth: 2
+	#a-function
+Broken Link, depth: 2
+	#find-all
+Broken Link, depth: 2
+	#id12
+Broken Link, depth: 2
+	#attrs
+Broken Link, depth: 2
+	#recursive
+Broken Link, depth: 2
+	#id13
+Broken Link, depth: 2
+	#limit
+Broken Link, depth: 2
+	#kwargs
+Broken Link, depth: 2
+	#the-name-argument
+Broken Link, depth: 2
+	#the-value-true
+Broken Link, depth: 2
+	#the-keyword-arguments
+Broken Link, depth: 2
+	#searching-by-css-class
+Broken Link, depth: 2
+	#multivalue
+Broken Link, depth: 2
+	#the-string-argument
+Broken Link, depth: 2
+	#the-limit-argument
+Broken Link, depth: 2
+	#the-recursive-argument
+Broken Link, depth: 2
+	#calling-a-tag-is-like-calling-find-all
+Broken Link, depth: 2
+	#find
+Broken Link, depth: 2
+	#find-parents-and-find-parent
+Broken Link, depth: 2
+	#find-next-siblings-and-find-next-sibling
+Broken Link, depth: 2
+	#sibling-generators
+Broken Link, depth: 2
+	#find-previous-siblings-and-find-previous-sibling
+Broken Link, depth: 2
+	#find-all-next-and-find-next
+Broken Link, depth: 2
+	#element-generators
+Broken Link, depth: 2
+	#find-all-previous-and-find-previous
+Broken Link, depth: 2
+	#css-selectors
+Broken Link, depth: 2
+	#changing-tag-names-and-attributes
+Broken Link, depth: 2
+	#modifying-string
+Broken Link, depth: 2
+	#append
+Broken Link, depth: 2
+	#extend
+Broken Link, depth: 2
+	#navigablestring-and-new-tag
+Broken Link, depth: 2
+	#insert
+Broken Link, depth: 2
+	#insert-before-and-insert-after
+Broken Link, depth: 2
+	#clear
+Broken Link, depth: 2
+	#extract
+Broken Link, depth: 2
+	#decompose
+Broken Link, depth: 2
+	#wrap
+Broken Link, depth: 2
+	#unwrap
+Broken Link, depth: 2
+	#smooth
+Broken Link, depth: 2
+	#output
+Broken Link, depth: 2
+	#pretty-printing
+Broken Link, depth: 2
+	#non-pretty-printing
+Broken Link, depth: 2
+	#encodings
+Broken Link, depth: 2
+	#output-formatters
+Broken Link, depth: 2
+	#get-text
+Broken Link, depth: 2
+	#string-generators
+Broken Link, depth: 2
+	#specifying-the-parser-to-use
+Broken Link, depth: 2
+	#unicode-dammit
+Broken Link, depth: 2
+	#output-encoding
+Broken Link, depth: 2
+	#inconsistent-encodings
+Broken Link, depth: 2
+	#smart-quotes
+Broken Link, depth: 2
+	#line-numbers
+Broken Link, depth: 2
+	#comparing-objects-for-equality
+Broken Link, depth: 2
+	#copying-beautiful-soup-objects
+Broken Link, depth: 2
+	#advanced-parser-customization
+Broken Link, depth: 2
+	#parsing-only-part-of-a-document
+Broken Link, depth: 2
+	#soupstrainer
+Broken Link, depth: 2
+	#customizing-multi-valued-attributes
+Broken Link, depth: 2
+	#handling-duplicate-attributes
+Broken Link, depth: 2
+	#instantiating-custom-subclasses
+Broken Link, depth: 2
+	#troubleshooting
+Broken Link, depth: 2
+	#errors-when-parsing-a-document
+Broken Link, depth: 2
+	#parser-installation
+Broken Link, depth: 2
+	#version-mismatch-problems
+Broken Link, depth: 2
+	#parsing-xml
+Broken Link, depth: 2
+	#other-parser-problems
+Broken Link, depth: 2
+	#miscellaneous
+Broken Link, depth: 2
+	#improving-performance
+Broken Link, depth: 2
+	#translating-this-documentation
+Broken Link, depth: 2
+	#id18
+Broken Link, depth: 2
+	#you-need-a-parser
+Broken Link, depth: 2
+	#method-names
+Broken Link, depth: 2
+	#generators
+Broken Link, depth: 2
+	#xml
+Broken Link, depth: 2
+	#entities
+Broken Link, depth: 2
+	#id19
+Broken Link, depth: 2
+	_sources/index.rst.txt
+Good Link, depth: 2
+	https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html
+	Climate FAQ
+Good Link, depth: 2
+	https://facelessuser.github.io/soupsieve/
+	SoupSieve
+Good Link, depth: 2
+	https://buttersafe.com/
+	Buttersafe
+Good Link, depth: 2
+	http://lxml.de/
+	lxml
+Good Link, depth: 2
+	https://groups.google.com/forum/?fromgroups#!forum/beautifulsoup
+	send mail to the discussion group
+Good Link, depth: 2
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc.ru/
+	Эта документация доступна на русском языке.
+Good Link, depth: 2
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/
+	这篇文档当然还有中文版.
+Good Link, depth: 2
+	http://www.python.org/dev/peps/pep-0008/
+	PEP 8 compliance
+Good Link, depth: 2
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc.ko/
+	이 문서는 한국어 번역도 가능합니다.
+Good Link, depth: 2
+	http://pypi.python.org/pypi/cchardet/
+	cchardet
+Good Link, depth: 2
+	http://code.google.com/p/html5lib/
+	html5lib parser
+Good Link, depth: 2
+	http://wiki.python.org/moin/PrintFails
+	this page on the
+Python wiki
+Good Link, depth: 2
+	http://www.crummy.com/software/BeautifulSoup/
+	Beautiful Soup
+Good Link, depth: 2
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr
+	Este documento também está disponível em Português do Brasil.
+Good Link, depth: 2
+	http://www.crummy.com/software/BeautifulSoup/download/4.x/
+	download the Beautiful Soup 4 source tarball
+Good Link, depth: 2
+	http://www.crummy.com/software/BeautifulSoup/bs3/documentation.html
+	Beautiful Soup 3
+Good Link, depth: 2
+	http://www.crummy.com/software/BeautifulSoup/bs3/download/3.x/BeautifulSoup-3.2.0.tar.gz
+	download a tarball of Beautiful Soup 3.2.0
+Good Link, depth: 2
+	http://www.w3.org/TR/html5/syntax.html#syntax
+	HTML tags and attributes are case-insensitive
+Good Link, depth: 2
+	https://www.sphinx-doc.org/
+	Sphinx
+Good Link, depth: 2
+	http://kondou.com/BS4/
+	外部リンク
+Good Link, depth: 0
+	https://pythonprogramming.net/parsememcparseface/
+	HomePage
 Broken Link, depth: 1
-	/intl/iw/policies/privacy/
+	/
 Broken Link, depth: 1
-	/intl/iw/policies/terms/
+	#
+Broken Link, depth: 1
+	/+=1/
+Broken Link, depth: 1
+	/support/
+Broken Link, depth: 1
+	/login/
+Broken Link, depth: 1
+	/register/
+Broken Link, depth: 1
+	/sitemap.xml
+Broken Link, depth: 1
+	/support-donate/
+Broken Link, depth: 1
+	/consulting/
+Broken Link, depth: 1
+	/about/tos/
+Broken Link, depth: 1
+	/about/privacy-policy/
+Good Link, depth: 1
+	https://www.facebook.com/pythonprogramming.net/
+	Facebook
+Good Link, depth: 1
+	https://twitter.com/sentdex
+	Twitter
+Good Link, depth: 1
+	https://xkcd.com/353/
+	Programming is a superpower.
+Broken Link, depth: 2
+	/archive
+Broken Link, depth: 2
+	/about
+Broken Link, depth: 2
+	/atom.xml
+Broken Link, depth: 2
+	/newsletter/
+Broken Link, depth: 2
+	/books/
+Broken Link, depth: 2
+	/what-if-2/
+Broken Link, depth: 2
+	/what-if/
+Broken Link, depth: 2
+	/thing-explainer/
+Broken Link, depth: 2
+	/how-to/
+Broken Link, depth: 2
+	/
+Broken Link, depth: 2
+	/1/
+Broken Link, depth: 2
+	/352/
+Broken Link, depth: 2
+	//c.xkcd.com/random/comic/
+Broken Link, depth: 2
+	/354/
+Broken Link, depth: 2
+	//xkcd.com/1732/
+Broken Link, depth: 2
+	/rss.xml
+Broken Link, depth: 2
+	/license.html
+Good Link, depth: 1
+	https://goo.gl/7zgAVQ
+	Community
+Good Link, depth: 2
+	https://www.homestuck.com/
+	Homestuck
+Broken Link, depth: 3
+	javascript:void(0)
+Broken Link, depth: 3
+	/
+Broken Link, depth: 3
+	/stories
+Good Link, depth: 2
+	https://creativecommons.org/licenses/by-nc/2.5/
+	Creative Commons Attribution-NonCommercial 2.5 License
+Broken Link, depth: 3
+	/info-story
+Broken Link, depth: 3
+	/info-shop
+Broken Link, depth: 3
+	/info-more
+Broken Link, depth: 3
+	/story
+Broken Link, depth: 3
+	#content
+Broken Link, depth: 3
+	/info-story
+Broken Link, depth: 3
+	/contacts
+Broken Link, depth: 3
+	/privacy
+Good Link, depth: 2
+	https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597
+	Tips on technology and government
+Broken Link, depth: 3
+	mailto:info@creativecommons.org
+Broken Link, depth: 3
+	/
+Good Link, depth: 1
+	https://goo.gl/7zgAVQ
+	Community
+Good Link, depth: 2
+	https://legal.twitter.com/imprint.html
+	Imprint
+Broken Link, depth: 3
+	legalcode
+Broken Link, depth: 3
+	#
+Broken Link, depth: 3
+	/plans?source=upgrade_membership---nav_full----------------------------------
+Broken Link, depth: 3
+	/
+Broken Link, depth: 3
+	
+Broken Link, depth: 3
+	/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fme%2Fnotifications&source=--------------------------notifications_sidenav-----------
+Broken Link, depth: 3
+	/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fme%2Flists&source=--------------------------lists_sidenav-----------
+Broken Link, depth: 3
+	/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fme%2Fstories%2Fdrafts&source=--------------------------stories_sidenav-----------
+Broken Link, depth: 3
+	/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=--------------------------new_post_sidenav-----------
+Broken Link, depth: 3
+	/choose/results-one?license_code=by-nc&amp;jurisdiction=&amp;version=2.5&amp;lang=en
+Broken Link, depth: 3
+	/@joshuatauberer?source=post_page-----7f3b1ef10597--------------------------------
+Broken Link, depth: 3
+	./deed.id
+Broken Link, depth: 3
+	./deed.ms
+Broken Link, depth: 3
+	/politizr-team/alors-comme-ça-vous-voulez-réformer-la-démocratie-acc9e0553057#.o7c07di2y
+Broken Link, depth: 3
+	./deed.ca
+Broken Link, depth: 3
+	./deed.es_ES
+Broken Link, depth: 3
+	./deed.da
+Broken Link, depth: 3
+	/@joshuatauberer/my-failures-civic-technology-ideas-that-didn-t-quite-work-c73ecf730032#.5fg4qr85l
+Broken Link, depth: 3
+	./deed.de
+Broken Link, depth: 3
+	./deed.en
+Broken Link, depth: 3
+	./deed.es
+Good Link, depth: 2
+	https://xkcd.com/what-if-2/
+	
+Broken Link, depth: 3
+	./deed.fr
+Broken Link, depth: 3
+	./deed.eo
+Broken Link, depth: 3
+	./deed.eu
+Broken Link, depth: 3
+	./deed.gl
+Broken Link, depth: 3
+	/civic-tech-thoughts-from-joshdata?source=post_page-----7f3b1ef10597--------------------------------
+Broken Link, depth: 3
+	./deed.hr
+Broken Link, depth: 3
+	./deed.it
+Broken Link, depth: 3
+	/?source=post_page-----7f3b1ef10597--------------------------------
+Broken Link, depth: 3
+	./deed.lv
+Broken Link, depth: 3
+	./deed.lt
+Broken Link, depth: 3
+	./deed.nl
+Broken Link, depth: 3
+	./deed.hu
+Broken Link, depth: 3
+	./deed.no
+Broken Link, depth: 3
+	./deed.pl
+Broken Link, depth: 3
+	/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcivic-tech-thoughts-from-joshdata%2Fso-you-want-to-reform-democracy-7f3b1ef10597&source=post_page--------------------------nav_reg-----------
+Broken Link, depth: 3
+	#Canada
+Broken Link, depth: 3
+	#Dutch
+Broken Link, depth: 3
+	./deed.pt
+Broken Link, depth: 3
+	./deed.pt_BR
+Broken Link, depth: 3
+	#German
+Broken Link, depth: 3
+	#Swedish
+Broken Link, depth: 3
+	/@joshuatauberer
+Broken Link, depth: 3
+	./deed.ro
+Broken Link, depth: 3
+	#UK
+Good Link, depth: 2
+	https://sites.prh.com/whatif2
+	enter our contest
+Broken Link, depth: 3
+	./deed.sr_LATN
+Broken Link, depth: 3
+	./deed.sl
+Broken Link, depth: 3
+	/@livpellegrini?source=read_next_recirc---------0---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Broken Link, depth: 3
+	/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2F6c13a6c77238&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcivic-tech-thoughts-from-joshdata%2Fso-you-want-to-reform-democracy-7f3b1ef10597&newsletterV3=460980aab192&newsletterV3Id=6c13a6c77238&user=Joshua+Tauberer&userId=460980aab192&source=--------------------------subscribe_user-----------
+Broken Link, depth: 3
+	./deed.fi
+Broken Link, depth: 3
+	./deed.sv
+Broken Link, depth: 3
+	/my-side-of-the-aisle/the-limiting-overturn-of-roe-and-the-power-we-give-ourselves-8ab56969d63a?source=read_next_recirc---------0---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Good Link, depth: 2
+	https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+	Ads info
+Broken Link, depth: 3
+	./deed.tr
+Good Link, depth: 2
+	https://what-if.xkcd.com
+	What If?
+Broken Link, depth: 3
+	./deed.is
+Broken Link, depth: 3
+	./deed.cs
+Good Link, depth: 2
+	https://help.twitter.com/using-twitter/twitter-supported-browsers
+	Help Center
+Broken Link, depth: 3
+	/my-side-of-the-aisle/the-limiting-overturn-of-roe-and-the-power-we-give-ourselves-8ab56969d63a?source=read_next_recirc---------0---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Good Link, depth: 2
+	https://oglaf.com/
+	Oglaf
+Broken Link, depth: 3
+	https://www.booksamillion.com/p/9780525537113?AID=10747236&PID=8373827&SID=PRHEFFDF5A7F1--9780525537113&cjevent=25d2da1c82de11ec809d02760a82b82d
+Good Link, depth: 3
+	https://www.amazon.com/exec/obidos/ASIN/0525537112/
+	Amazon
+Broken Link, depth: 3
+	/@aymenismail?source=read_next_recirc---------1---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Good Link, depth: 2
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 2
+	http://www.buttercupfestival.com/
+	Buttercup Festival
+Broken Link, depth: 3
+	./deed.el
+Broken Link, depth: 3
+	https://bookshop.org/books/what-if-2-additional-serious-scientific-answers-to-absurd-hypothetical-questions/9780525537113
+Good Link, depth: 2
+	https://twitter.com/tos
+	Terms of Service
+Broken Link, depth: 3
+	/@aymenismail?source=read_next_recirc---------1---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Broken Link, depth: 3
+	./deed.ru
+Good Link, depth: 2
+	https://twitter.com/xkcd/
+	TW
+Good Link, depth: 2
+	https://questionablecontent.net/
+	Questionable Content
+Broken Link, depth: 4
+	None
+Broken Link, depth: 3
+	./deed.be
+Broken Link, depth: 3
+	#twtr-main
+Good Link, depth: 3
+	http://www.amazon.com/Business-America-Lobbying-Corporations-Politicized/dp/0190215518/ref=sr_1_1?ie=UTF8&qid=1448251082&sr=8-1&keywords=lee+drutman
+	where a lobbyists’s power comes from
+Good Link, depth: 2
+	https://www.asofterworld.com
+	A Softer World
+Good Link, depth: 3
+	https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----7f3b1ef10597--------------------------------
+	Terms
+Good Link, depth: 3
+	https://twitter.com/creativecommons
+	Twitter
+Good Link, depth: 3
+	https://xkcd.com/1831/
+	https://xkcd.com/1831/
+Broken Link, depth: 2
+	https://www.qwantz.com
+Good Link, depth: 3
+	http://theleanstartup.com/
+	Repeat and expand on what worked.
+Good Link, depth: 3
+	https://xkcd.com
+	xkcd's
+Good Link, depth: 1
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+	Beautiful Soup 4
+Broken Link, depth: 3
+	https://play.google.com/store/audiobooks/details/Randall_Munroe_What_If_2?id=AQAAAEB8E1ZTOM
+Broken Link, depth: 3
+	./deed.uk
+Good Link, depth: 2
+	https://twitter.com/KHayhoe
+	Katharine Hayhoe
+Good Link, depth: 2
+	https://www.instagram.com/xkcd/
+	IG
+Good Link, depth: 3
+	https://18f.gsa.gov/
+	working for the government
+Good Link, depth: 2
+	https://imgs.xkcd.com/comics/python.png
+	https://imgs.xkcd.com/comics/python.png
+Good Link, depth: 3
+	https://network.creativecommons.org/?ref=global-affiliate-network
+	Global Network
+Broken Link, depth: 3
+	/feeds/rss/
+Good Link, depth: 3
+	https://medium.com/about?autoplay=1&source=post_page-----7f3b1ef10597--------------------------------
+	About
+Good Link, depth: 3
+	https://us.e-activist.com/page/6747/subscribe/1?ea.tracking.id=mailing-list-page
+	Newsletters
+Good Link, depth: 3
+	https://www.facebook.com/creativecommons
+	Facebook
+Good Link, depth: 2
+	https://www.smbc-comics.com/
+	SMBC
+Good Link, depth: 2
+	https://pbfcomics.com/
+	Perry Bible Fellowship
+Good Link, depth: 3
+	https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----7f3b1ef10597--------------------------------
+	Privacy
+Broken Link, depth: 3
+	/@waospi?source=read_next_recirc---------2---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Good Link, depth: 3
+	https://network.creativecommons.org/?ref=global-affiliate-network
+	Global Network
+Broken Link, depth: 3
+	/bleat-up/
+Broken Link, depth: 3
+	/archive/
+Good Link, depth: 3
+	https://what-if.xkcd.com/
+	what if?
+Good Link, depth: 3
+	https://store.creativecommons.org/
+	Store
+Good Link, depth: 3
+	https://www.penguinrandomhouse.de/Paperback/What-if-2-Was-waere-wenn/Randall-Munroe/Penguin/e547616.rhd
+	Penguin Random house
+Broken Link, depth: 3
+	#twtr-main
+Good Link, depth: 3
+	https://what-if.xkcd.com/
+	&
+Good Link, depth: 3
+	https://medium.com/civic-tech-thoughts-from-joshdata?source=post_page-----7f3b1ef10597--------------------------------
+	
+Good Link, depth: 3
+	https://www.bol.com/nl/nl/p/dummy/9300000076420213/
+	Bol
+Good Link, depth: 3
+	https://creativecommons.org/use-remix/
+	Use & remix
+Broken Link, depth: 3
+	#twtr-main
+Good Link, depth: 3
+	https://creativecommons.org/blog/
+	Blog
+Good Link, depth: 2
+	https://blag.xkcd.com
+	Blag
+Broken Link, depth: 3
+	https://bookshop.org/a/2186/9780525537113?prhc=PRHE159AAB82E
+Broken Link, depth: 3
+	https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=post_page&source=post_page-----7f3b1ef10597--------------------------------
+Good Link, depth: 3
+	https://creativecommons.org/about/
+	What We do
+Good Link, depth: 3
+	https://creativecommons.org/about/contact/
+	Contact
+Good Link, depth: 3
+	https://search.creativecommons.org/
+	Search for CC images
+Good Link, depth: 3
+	http://creativecommons.org/licenses/by/4.0/
+	Some rights reserved
+Broken Link, depth: 4
+	None
+Good Link, depth: 3
+	https://www.indiebound.org/book/9780525537113
+	IndieBound
+Broken Link, depth: 4
+	https://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088
+Good Link, depth: 3
+	https://blackwells.co.uk/bookshop/product/9781473680623
+	Blackwells UK
+Good Link, depth: 3
+	https://twitter.com/en/tos#update
+	Terms of Service
+Broken Link, depth: 3
+	/@waospi?source=read_next_recirc---------2---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Good Link, depth: 3
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 3
+	http://buildwith.org/
+	engaging with the people who have those problems
+Good Link, depth: 3
+	https://creativecommons.org/share-your-work/
+	Share your work
+Good Link, depth: 3
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 3
+	https://help.twitter.com/using-twitter/twitter-supported-browsers
+	Help Center
+Good Link, depth: 3
+	https://www.surveymonkey.com/r/2Z8GTQK
+	  
+Good Link, depth: 3
+	https://books.apple.com/us/book/id1606473215
+	Apple Books
+Broken Link, depth: 3
+	https://www.waterstones.com/book/9781399804233
+Good Link, depth: 3
+	https://www.penguinrandomhouse.com/terms/
+	Terms of Use
+Good Link, depth: 3
+	https://www.barnesandnoble.com/w/what-if-2-randall-munroe/1140943988?ean=9780525537113
+	Barnes and Noble
+Good Link, depth: 3
+	https://www.amazon.de/dp/3328600930/ref=sr_1_56__mk_de_DE=ÅMÅŽÕÑ&crid=2DYTPK82AZYIN&keywords=munroe+what+if+2&qid=1643616569&sprefix=munroe+what+if+2%2Caps%2C95&sr=8-56
+	Amazon, Germany
+Good Link, depth: 3
+	https://www.amazon.com/exec/obidos/ASIN/0525537112/
+	Amazon US
+Good Link, depth: 3
+	https://twitter.com/Oglaf
+	
+Broken Link, depth: 4
+	/archive
+Good Link, depth: 3
+	https://rsci.app.link/?$canonical_url=https%3A%2F%2Fmedium.com/p/7f3b1ef10597&~feature=LoOpenInAppButton&~channel=ShowPostUnderCollection&~stage=mobileNavBar
+	Open in app
+Good Link, depth: 3
+	https://xkcd.com/what-if-2
+	here!
+Broken Link, depth: 4
+	/archive
+Good Link, depth: 3
+	https://www.penguinrandomhouse.com
+	
+Broken Link, depth: 4
+	https://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088
+Broken Link, depth: 3
+	#twitter-privacy-3.1
+Broken Link, depth: 3
+	./deed.fa
+Broken Link, depth: 3
+	/en/help/overview/what-are-follower-ads.html
+Broken Link, depth: 3
+	http://www.tkqlhce.com/click-8373827-10747236?SID=PRHE159AAB82E--9780525537113&url=http://www.booksamillion.com/p/9780525537113
+Good Link, depth: 3
+	https://wiki.creativecommons.org/FAQ
+	Learn more
+Good Link, depth: 3
+	https://creativecommons.org/donate?ea.tracking.id=license-footer
+	Make a
+                            Donation
+Broken Link, depth: 2
+	genindex.html
+Good Link, depth: 3
+	https://www.govtrack.us/press
+	a source
+Good Link, depth: 3
+	https://www.questionablecontent.net
+	
+Good Link, depth: 3
+	https://volante.se/bocker/tank-om-2/
+	Volante
+Broken Link, depth: 3
+	#twtr-main
+Good Link, depth: 3
+	https://creativecommons.org/about/
+	What We do
+Good Link, depth: 3
+	http://www.asofterworld.com
+	
+Good Link, depth: 3
+	http://www.amazon.com/gp/product/0525537112?tag=randohouseinc47720-20
+	Amazon
+Broken Link, depth: 3
+	https://www.booktopia.com.au/book/9781473680630.html
+Broken Link, depth: 3
+	/en/help/overview/what-are-promoted-ads.html
+Good Link, depth: 3
+	https://www.penguinrandomhouse.com/privacy/
+	Privacy Policy
+Broken Link, depth: 2
+	#
+Good Link, depth: 3
+	https://www.penguinrandomhouse.com/books/576761
+	Penguin Random House
+Good Link, depth: 3
+	https://www.chapters.indigo.ca/en-ca/books/product/9780525537113-item.html?s_campaign=af[…]vent=851f5cea09ff11ed8032ae250a82b836&cjdata=MXxOfDB8WXww
+	Chapters Indigo
+Good Link, depth: 3
+	https://www.mightyape.co.nz/product/what-if-2/34473372?r=2945205
+	Mighty Ape NZ
+Good Link, depth: 3
+	https://www.amazon.co.uk/What-Additional-Scientific-Hypothetical-Questions/dp/147368062X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1643381615&sr=1-1
+	Amazon UK
+Good Link, depth: 3
+	https://razor.occams.info/cv.html
+	Almost 15 years
+Good Link, depth: 3
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Broken Link, depth: 4
+	#content
+Good Link, depth: 3
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 3
+	http://www.anrdoezrs.net/click-8373827-11819508?sid=PRHE159AAB82E&url=http://www.barnesandnoble.com/w/?ean=9780525537113
+	Barnes & Noble
+Good Link, depth: 4
+	https://twitter.com/tos
+	Terms of Service
+Broken Link, depth: 4
+	#
+Good Link, depth: 3
+	https://twitter.com/en/tos?wcmmode=disabled#intlTerms
+	Terms of Service
+Broken Link, depth: 4
+	#content
+Broken Link, depth: 3
+	https://bookshop.org/books/what-if-2-additional-serious-scientific-answers-to-absurd-hypothetical-questions/9780525537113
+Good Link, depth: 4
+	https://what-if.xkcd.com
+	What If?
+Broken Link, depth: 4
+	https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496
+Good Link, depth: 3
+	https://www.questionablecontent.net/about.php
+	About
+Good Link, depth: 4
+	https://help.twitter.com/using-twitter/twitter-supported-browsers
+	Help Center
+Good Link, depth: 3
+	https://www.patreon.com/oglaf
+	Patreon
+Broken Link, depth: 4
+	#twtr-main
+Good Link, depth: 3
+	https://www.penguinrandomhouse.com/affiliate-program-disclosure/
+	Affiliate Program Disclosure
+Broken Link, depth: 3
+	./deed.bn
+Good Link, depth: 4
+	https://xkcd.com
+	xkcd's
+Good Link, depth: 3
+	https://www.barnesandnoble.com/w/what-if-2-randall-munroe/1140943988?ean=9780525537113
+	Barnes and Noble
+Good Link, depth: 3
+	https://xkcd.com/what-if-2
+	
+Good Link, depth: 3
+	https://www.amazon.ca/dp/0525537112
+	Amazon CA
+Good Link, depth: 4
+	https://network.creativecommons.org
+	CC Network
+Good Link, depth: 4
+	https://what-if.xkcd.com
+	What If?
+Broken Link, depth: 4
+	/Newsletter/Anmeldung.rhd
+Good Link, depth: 4
+	https://network.creativecommons.org
+	CC Network
+Good Link, depth: 3
+	https://what-if.xkcd.com/158
+	◀︎
+Broken Link, depth: 4
+	#
+Good Link, depth: 3
+	http://www.asofterworld.com/projects.php
+	projects
+Good Link, depth: 4
+	https://twitter.com/en/tos#update
+	Terms of Service
+Good Link, depth: 3
+	https://topatoco.com/collections/oglaf
+	Store
+Good Link, depth: 3
+	https://twitter.com/privacy
+	Privacy Policy
+Broken Link, depth: 4
+	#siteSearch
+Broken Link, depth: 4
+	/
+Broken Link, depth: 3
+	#content
+Good Link, depth: 3
+	https://blog.xkcd.com/2022/01/31/what-if-2/
+	What If 2
+Good Link, depth: 3
+	https://twitter.com/PBFcomics
+	
+Good Link, depth: 3
+	http://www.asofterworld.com/index.php?id=246
+	fnord
+Broken Link, depth: 3
+	/en/help/overview/what-are-promoted-trends.html
+Good Link, depth: 4
+	https://what-if.xkcd.com/
+	&
+Good Link, depth: 4
+	https://twitter.com/privacy
+	Privacy Policy
+Broken Link, depth: 2
+	#beautiful-soup-documentation
+Broken Link, depth: 2
+	
+Broken Link, depth: 4
+	/gp/help/customer/display.html?nodeId=201890250&ref_=footer_cookies_notice
+Good Link, depth: 3
+	https://www.facebook.com/perrybiblefellowship/
+	
+Broken Link, depth: 4
+	#main-content
+Broken Link, depth: 4
+	/
+Good Link, depth: 4
+	https://medium.com/?source=membership_page---nav_logo-----------------------membership_page_nav_logo-&utm_source=membership&utm_medium=landing-page&utm_campaign=home&utm_content=top-nav
+	
+Broken Link, depth: 4
+	None
+Good Link, depth: 4
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 4
+	https://what-if.xkcd.com/
+	what if?
+Broken Link, depth: 4
+	/bookshop/login
+Broken Link, depth: 4
+	/about
+Good Link, depth: 3
+	https://twitter.com/tos
+	Terms of Service
+Broken Link, depth: 3
+	#twitter-privacy-1
+Good Link, depth: 3
+	https://help.twitter.com/
+	
+                
+                 
+  
+  
+
+                
+                  Help Center
+                
+              
+Broken Link, depth: 4
+	#mainblock
+Broken Link, depth: 4
+	/nl/m/voorwaarden/cookiebeleid/index.html
+Broken Link, depth: 4
+	#mainContent
+Broken Link, depth: 4
+	#content
+Good Link, depth: 3
+	https://medium.com/waospi?source=read_next_recirc---------2---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+	Office of Superintendent of Public Instruction
+Broken Link, depth: 3
+	/waospi/seattle-nonprofit-helps-youth-find-a-friend-in-a-mentor-e2400970ccd0?source=read_next_recirc---------2---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Broken Link, depth: 4
+	#twtr-main
+Broken Link, depth: 4
+	/gp/help/customer/display.html?nodeId=201890250&ref_=footer_cookies_notice
+Good Link, depth: 4
+	https://medium.com/about?source=about_page---about_top_nav_link-----------------------about_page_about_top_nav_link-&utm_source=about&utm_medium=landing-page&utm_campaign=about&utm_content=top-nav
+	Our story
+Broken Link, depth: 4
+	#primary-navigation
+Broken Link, depth: 4
+	#
+Good Link, depth: 3
+	https://twitter.com/privacy
+	Privacy Policy
+Broken Link, depth: 4
+	/atom.xml
+Broken Link, depth: 4
+	#twitter-privacy-3.1
+Broken Link, depth: 4
+	#twitter-privacy-1
+Good Link, depth: 4
+	https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+	Ads info
+Broken Link, depth: 3
+	./deed.zh
+Good Link, depth: 4
+	http://www.asofterworld.com
+	
+Good Link, depth: 4
+	https://what-if.xkcd.com/
+	how to:
+Good Link, depth: 4
+	https://www.questionablecontent.net
+	
+Good Link, depth: 3
+	https://www.apple.com/safari
+	https://www.apple.com/safari
+Good Link, depth: 5
+	https://what-if.xkcd.com/
+	what if?
+Good Link, depth: 4
+	https://medium.com/plans?source=upgrade_membership---nav_full----------------------------------
+	Get unlimited access
+Good Link, depth: 4
+	https://www.questionablecontent.net
+	
+Good Link, depth: 3
+	https://support.twitter.com/articles/20170514
+	Cookie Policy
+Good Link, depth: 4
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 4
+	https://medium.com/
+	Homepage
+Broken Link, depth: 3
+	#top
+Good Link, depth: 3
+	https://www.indiebound.org/book/9780525537113
+	IndieBound, 
+Good Link, depth: 4
+	http://www.asofterworld.com
+	
+Broken Link, depth: 4
+	#content
+Good Link, depth: 4
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 4
+	https://creativecommons.org/share-your-work/
+	Share your work
+Good Link, depth: 4
+	https://support.twitter.com/articles/20170514
+	Cookie Policy
+Good Link, depth: 3
+	https://legal.twitter.com/imprint.html
+	Imprint
+Good Link, depth: 4
+	https://medium.com/about?source=membership_page---about_top_nav_link-----------------------membership_page_about_top_nav_link-&utm_source=membership&utm_medium=landing-page&utm_campaign=about&utm_content=top-nav
+	Our story
+Broken Link, depth: 4
+	None
+Broken Link, depth: 4
+	/
+Broken Link, depth: 4
+	#twtr-main
+Good Link, depth: 4
+	http://www.asofterworld.com/projects.php
+	projects
+Broken Link, depth: 3
+	./deed.ja
+Good Link, depth: 3
+	https://support.twitter.com/articles/20170514
+	Cookie Policy
+Broken Link, depth: 3
+	./deed.zh_TW
+Good Link, depth: 3
+	https://www.questionablecontent.net/contact.php
+	Contact
+Good Link, depth: 4
+	https://help.twitter.com/
+	
+                
+                 
+  
+  
+
+                
+                  Help Center
+                
+              
+Good Link, depth: 3
+	https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+	Ads info
+Good Link, depth: 3
+	https://www.instagram.com/pbf_comics/
+	
+Broken Link, depth: 3
+	/@bradmichaelson?source=read_next_recirc---------3---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Good Link, depth: 3
+	https://www.questionablecontent.net/cast.php
+	Cast
+Broken Link, depth: 4
+	#
+Broken Link, depth: 4
+	/atom.xml
+Broken Link, depth: 4
+	/newsletter/
+Broken Link, depth: 4
+	#mainblock
+Broken Link, depth: 4
+	None
+Broken Link, depth: 4
+	#maincontent
+Broken Link, depth: 4
+	#
+Broken Link, depth: 4
+	/newsletter/
+Good Link, depth: 2
+	http://www.crummy.com/software/BeautifulSoup/
+	Beautiful Soup
+Broken Link, depth: 3
+	#
+Broken Link, depth: 5
+	#twtr-main
+Good Link, depth: 3
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Good Link, depth: 4
+	https://medium.com/membership?source=membership_page---membership_top_nav_link-----------------------membership_page_membership_top_nav_link-&utm_source=membership&utm_medium=landing-page&utm_campaign=membership&utm_content=top-nav
+	Membership
+Good Link, depth: 3
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 3
+	https://xkcd.com/whatif2
+	available for preorder now
+Good Link, depth: 4
+	https://twitter.com/en/tos#update
+	Terms of Service
+Good Link, depth: 4
+	https://legal.twitter.com/imprint.html
+	Imprint
+Broken Link, depth: 5
+	#twtr-main
+Broken Link, depth: 4
+	https://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088
+Good Link, depth: 4
+	https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2Fcivic-tech-thoughts-from-joshdata%3Fsource%3Dpost_page-----7f3b1ef10597--------------------------------&source=--------------------------nav_reg&operation=login
+	Sign in
+Broken Link, depth: 4
+	#mainblock
+Broken Link, depth: 4
+	/cookieprefs/partners
+Good Link, depth: 3
+	https://books.apple.com/us/book/id1606473215
+	Apple Books
+Good Link, depth: 3
+	https://www.mozilla.org/firefox
+	https://www.mozilla.org/firefox
+Good Link, depth: 4
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 4
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 4
+	https://blag.xkcd.com
+	Blag
+Good Link, depth: 3
+	https://www.google.com/chrome
+	https://www.google.com/chrome
+Good Link, depth: 5
+	https://what-if.xkcd.com
+	What If?
+Good Link, depth: 5
+	https://what-if.xkcd.com/
+	&
+Good Link, depth: 4
+	https://sites.prh.com/newsletter
+	JOIN OUR EMAIL PROGRAM FOR EXPERT PICKS
+Good Link, depth: 4
+	https://creativecommons.org/share-your-work/
+	Share your work
+Good Link, depth: 4
+	https://creativecommons.org/use-remix/
+	Use & remix
+Broken Link, depth: 4
+	/b/books/_/N-8q8
+Good Link, depth: 4
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 4
+	https://wordpress.org/about/
+	About WordPress
+Broken Link, depth: 3
+	
+Good Link, depth: 4
+	https://xkcd.com/what-if-2
+	here!
+Broken Link, depth: 5
+	#twtr-main
+Broken Link, depth: 5
+	#twitter-privacy-3.1
+Broken Link, depth: 3
+	//smbc-comics.tumblr.com/
+Broken Link, depth: 3
+	./deed.ko
+Good Link, depth: 4
+	https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2Fcivic-tech-thoughts-from-joshdata%3Fsource%3Dpost_page-----7f3b1ef10597--------------------------------&source=--------------------------nav_reg&operation=register
+	Get started
+Broken Link, depth: 4
+	#twtr-main
+Broken Link, depth: 2
+	#porting-code-to-bs4
+Good Link, depth: 3
+	https://www.questionablecontent.net/QCRSS.xml
+	RSS
+Broken Link, depth: 3
+	https://www.booksamillion.com/p/9780525537113?AID=10747236&PID=8373827&SID=PRHEFFDF5A7F1--9780525537113&cjevent=25d2da1c82de11ec809d02760a82b82d
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+	Learn about affiliates
+Broken Link, depth: 4
+	#twtr-main
+Broken Link, depth: 4
+	
+Good Link, depth: 4
+	https://creativecommons.org/
+	
+
+
+Broken Link, depth: 3
+	/@bradmichaelson?source=read_next_recirc---------3---------------------b43581e6_b063_4404_8e76_5089e3924608-------
+Good Link, depth: 3
+	http://www.patreon.com/jephjacques
+	Patreon
+Good Link, depth: 4
+	https://www.questionablecontent.net/archive.php
+	Archive
+Broken Link, depth: 4
+	/help-center
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Good Link, depth: 4
+	https://wordpress.org/
+	WordPress.org
+Broken Link, depth: 5
+	#twtr-main
+Broken Link, depth: 4
+	#
+Broken Link, depth: 5
+	/
+Broken Link, depth: 4
+	/en-ca/fashion/tote-bag-offer/
+Good Link, depth: 4
+	https://help.twitter.com/
+	
+                
+                 
+  
+  
+
+                
+                  Help Center
+                
+              
+Broken Link, depth: 5
+	/
+Broken Link, depth: 4
+	/ref=nav_logo
+Good Link, depth: 4
+	https://www.amazon.com/exec/obidos/ASIN/0525537112/
+	Amazon
+Good Link, depth: 5
+	https://medium.com/?source=about_page---nav_logo-----------------------about_page_nav_logo-&utm_source=about&utm_medium=landing-page&utm_campaign=home&utm_content=top-nav
+	
+Broken Link, depth: 4
+	/nl/nl/m/lekker-winkelen-zonder-zorgen/
+Broken Link, depth: 5
+	/archive
+Broken Link, depth: 3
+	//www.smbc-comics.com/smbcforum
+Broken Link, depth: 4
+	/work
+Broken Link, depth: 4
+	#MainContent
+Good Link, depth: 4
+	https://wordpress.org/about/
+	About WordPress
+Broken Link, depth: 4
+	/team
+Good Link, depth: 3
+	https://torproject.org
+	https://torproject.org
+Broken Link, depth: 5
+	#
+Broken Link, depth: 5
+	#twitter-privacy-3.1
+Broken Link, depth: 5
+	#content
+Broken Link, depth: 5
+	#
+Good Link, depth: 3
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+	Learn about affiliates
+Broken Link, depth: 4
+	#main-content
+Good Link, depth: 5
+	https://xkcd.com
+	xkcd's
+Good Link, depth: 3
+	https://legal.twitter.com/imprint.html
+	Imprint
+Good Link, depth: 3
+	https://pbfcomics.com/
+	
+						
+						
+					
+Good Link, depth: 4
+	https://xkcd.com/what-if-2
+	
+Good Link, depth: 5
+	https://what-if.xkcd.com/
+	how to:
+Good Link, depth: 4
+	https://medium.com/creators?source=about_page---creators_top_nav_link-----------------------about_page_creators_top_nav_link-&utm_source=about&utm_medium=landing-page&utm_campaign=creators&utm_content=top-nav
+	Write
+Good Link, depth: 4
+	https://www.questionablecontent.net/about.php
+	About
+Good Link, depth: 4
+	http://www.asofterworld.com
+	
+Broken Link, depth: 4
+	#general
+Good Link, depth: 3
+	https://blogdotxkcddotcom.files.wordpress.com/2022/01/blog-image-1.png
+	
+Good Link, depth: 3
+	https://support.twitter.com/articles/118492-how-to-use-the-location-feature-on-mobile-devices#
+	location features
+Good Link, depth: 5
+	https://twitter.com/en/tos#update
+	Terms of Service
+Good Link, depth: 4
+	https://www.questionablecontent.net/cast.php
+	Cast
+Good Link, depth: 3
+	https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+	Ads info
+Broken Link, depth: 4
+	
+Good Link, depth: 3
+	https://pbfcomics.com/shop/
+	
+Good Link, depth: 4
+	https://creativecommons.org/use-remix/
+	Use & remix
+Broken Link, depth: 5
+	/about
+Good Link, depth: 4
+	https://www.questionablecontent.net/archive.php
+	Archive
+Good Link, depth: 4
+	https://www.facebook.com/IndieBound/
+	 
+Good Link, depth: 4
+	http://www.asofterworld.com/index.php?id=0
+	fnord
+Broken Link, depth: 4
+	None
+Good Link, depth: 5
+	http://www.asofterworld.com
+	
+Good Link, depth: 4
+	http://www.asofterworld.com/index.php?id=736
+	fnord
+Good Link, depth: 4
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 3
+	http://pbfcomics.com
+	
+Broken Link, depth: 5
+	#content
+Good Link, depth: 4
+	https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com/civic-tech-thoughts-from-joshdata%3F~feature=LoMobileNavBar&~channel=ShowCollectionHome&~stage=m2
+	Open in app
+Broken Link, depth: 3
+	https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion
+Broken Link, depth: 4
+	/about
+Good Link, depth: 4
+	https://creativecommons.org/about/
+	What We Do
+Good Link, depth: 5
+	https://xkcd.com
+	xkcd's
+Broken Link, depth: 5
+	#twitter-privacy-1
+Good Link, depth: 4
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 4
+	http://www.asofterworld.com/projects.php
+	projects
+Good Link, depth: 3
+	https://support.twitter.com/articles/20170405-your-privacy-controls-for-tailored-ads
+	Â privacy controls for personalized ads
+Broken Link, depth: 3
+	#twitter-privacy-2
+Broken Link, depth: 4
+	None
+Good Link, depth: 5
+	https://blag.xkcd.com
+	Blag
+Broken Link, depth: 5
+	#content
+Good Link, depth: 4
+	https://twitter.com/en/tos?wcmmode=disabled#intlTerms
+	Terms of Service
+Broken Link, depth: 4
+	#platform-integrity-and-authenticity
+Broken Link, depth: 4
+	None
+Good Link, depth: 2
+	http://www.crummy.com/software/BeautifulSoup/bs3/documentation.html
+	Beautiful Soup 3
+Good Link, depth: 4
+	https://network.creativecommons.org/governance/
+	Governance
+Good Link, depth: 5
+	https://medium.com/about?source=about_page---about_top_nav_link-----------------------about_page_about_top_nav_link-&utm_source=about&utm_medium=landing-page&utm_campaign=about&utm_content=top-nav
+	Our story
+Broken Link, depth: 4
+	#twtr-main
+Good Link, depth: 4
+	https://what-if.xkcd.com/158
+	◀︎
+Good Link, depth: 3
+	https://www.google.com/search?tbm=isch&q=hail+car+windows
+	extreme damage to cars
+Good Link, depth: 4
+	http://www.asofterworld.com
+	
+Good Link, depth: 4
+	https://creativecommons.org/use-remix/
+	Use & remix
+Broken Link, depth: 5
+	#twtr-main
+Broken Link, depth: 4
+	/collections/comics
+Good Link, depth: 5
+	https://medium.com/about?autoplay=1
+	Our story
+Good Link, depth: 4
+	https://www.facebook.com/TheXKCD/
+	FB
+Broken Link, depth: 4
+	#
+Broken Link, depth: 4
+	/cookieprefs?ref_=ya_d_l_cookie_prefs
+Good Link, depth: 3
+	https://topatoco.com/collections/jeph-jacques
+	Merchandise
+Broken Link, depth: 5
+	#content
+Broken Link, depth: 4
+	#ac-gn-menustate
+Good Link, depth: 5
+	https://what-if.xkcd.com/
+	what if?
+Good Link, depth: 4
+	https://www.penguinrandomhouse.com/books/576761
+	Penguin Random House
+Broken Link, depth: 4
+	None
+Good Link, depth: 5
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Broken Link, depth: 4
+	/b/contributor/randall-munroe/_/N-2kjm;jsessionid=331FEE5582A3AA68F241228C1FB8E4E7.prodny_store02-atgap06
+Good Link, depth: 5
+	https://twitter.com/privacy
+	Privacy Policy
+Broken Link, depth: 5
+	#content
+Good Link, depth: 4
+	https://rsci.app.link/?$canonical_url=https%3A%2F%2Fmedium.com/p/9db0094a1e0f&~feature=LoOpenInAppButton&~channel=ShowPostUnderCollection&~stage=mobileNavBar
+	Open in app
+Good Link, depth: 4
+	https://www.questionablecontent.net/cast.php
+	Cast
+Good Link, depth: 4
+	https://medium.com/
+	Home
+Broken Link, depth: 4
+	#twtr-main
+Good Link, depth: 4
+	https://medium.com/m/signin?source=about_page---nav_signin-----------------------about_page_nav_signin-&utm_source=about&utm_medium=landing-page&utm_campaign=signin&utm_content=top-nav
+	Sign in
+Good Link, depth: 5
+	https://xkcd.com/what-if-2
+	
+Good Link, depth: 4
+	https://network.creativecommons.org/chapter/
+	Chapters
+Broken Link, depth: 5
+	#twitter-privacy-3.1
+Good Link, depth: 3
+	https://creativecommons.org/
+	
+Broken Link, depth: 4
+	#twtr-main
+Good Link, depth: 5
+	https://medium.com/about?autoplay=1
+	Our story
+Good Link, depth: 4
+	https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fme%2Fnotifications&source=--------------------------notifications_sidenav-----------
+	Notifications
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Good Link, depth: 3
+	http://edition.cnn.com/2002/WEATHER/07/22/weather.china.hail/
+	storm in China in 2002
+Good Link, depth: 5
+	https://network.creativecommons.org/about/
+	About
+Broken Link, depth: 4
+	/offerings
+Good Link, depth: 3
+	https://www.smbc-comics.com/comic/archive
+	
+Broken Link, depth: 4
+	#ac-gn-menustate
+Good Link, depth: 5
+	https://medium.com/membership
+	Membership
+Broken Link, depth: 5
+	#twtr-main
+Good Link, depth: 4
+	https://creativecommons.org/about/
+	What We Do
+Good Link, depth: 3
+	https://en.wikipedia.org/wiki/NASA_M2-F1
+	M2-F1
+Good Link, depth: 5
+	https://medium.com/about?source=about_page---about_top_nav_link-----------------------about_page_about_top_nav_link-&utm_source=about&utm_medium=landing-page&utm_campaign=about&utm_content=top-nav
+	Our story
+Good Link, depth: 4
+	https://creativecommons.org/use-remix/
+	Use & remix
+Good Link, depth: 4
+	https://twitter.com/xkcd/
+	TW
+Broken Link, depth: 3
+	http://asofterworld.com/rssfeed.php
+Good Link, depth: 4
+	https://login.wordpress.org/?redirect_to=https%3A%2F%2Fwordpress.org%2Fopenverse%2F%3Freferrer%3Dcreativecommons.org&locale=en_US
+	Log In
+Good Link, depth: 5
+	https://www.amazon.com/exec/obidos/ASIN/0525537112/
+	Amazon
+Good Link, depth: 4
+	https://creativecommons.org/share-your-work/
+	Share your work
+Good Link, depth: 5
+	https://what-if.xkcd.com/
+	&
+Good Link, depth: 4
+	https://www.apple.com/safari
+	https://www.apple.com/safari
+Good Link, depth: 4
+	https://wordpress.org/support/forum/requests-and-feedback
+	Feedback
+Good Link, depth: 4
+	https://www.questionablecontent.net
+	
+Good Link, depth: 5
+	https://xkcd.com/what-if-2
+	here!
+Broken Link, depth: 4
+	/Specials/Uebersicht.rhd
+Broken Link, depth: 5
+	#
+Broken Link, depth: 4
+	/ref=nav_logo
+Good Link, depth: 4
+	https://twitter.com/privacy
+	Privacy Policy
+Broken Link, depth: 4
+	#EditorialReviews
+Broken Link, depth: 5
+	#content
+Good Link, depth: 4
+	https://medium.com/civic-tech-thoughts-from-joshdata
+	Civic Tech Thoughts from JoshData
+Good Link, depth: 5
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 5
+	https://www.questionablecontent.net/archive.php
+	Archive
+Good Link, depth: 5
+	https://what-if.xkcd.com/
+	how to:
+Good Link, depth: 4
+	https://twitter.com/twittersupport
+	
+      Follow @twittersupport
+    
+Broken Link, depth: 4
+	#safety-and-cybercrime
+Good Link, depth: 3
+	https://twitter.com/settings/account
+	Learn how to update your settings
+Good Link, depth: 4
+	https://creativecommons.org/share-your-work/
+	Share your work
+Broken Link, depth: 5
+	#twitter-privacy-2
+Broken Link, depth: 5
+	#content
+Good Link, depth: 4
+	https://twitter.com/en/tos#update
+	Terms of Service
+Good Link, depth: 4
+	https://www.questionablecontent.net/contact.php
+	Contact
+Good Link, depth: 3
+	http://hivemill.com/collections/smbc
+	
+Good Link, depth: 4
+	https://wordpress.org/support/forums/
+	Support
+Good Link, depth: 5
+	https://twitter.com/twittersupport
+	
+      Follow @twittersupport
+    
+Good Link, depth: 4
+	https://login.wordpress.org/register?locale=en_US
+	Register
+Good Link, depth: 4
+	https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fme%2Flists&source=--------------------------lists_sidenav-----------
+	Lists
+Broken Link, depth: 5
+	#twitter-privacy-1
+Good Link, depth: 4
+	https://blackwells.zendesk.com/hc/en-gb
+	Help
+Good Link, depth: 4
+	https://network.creativecommons.org/docs-and-faqs/
+	Docs & FAQs
+Good Link, depth: 4
+	https://www.penguinrandomhouse.com/the-read-down/short-audio-books/
+	
+                  
+                  Short Audiobooks to Listen to in a Day
+                  Learn More >
+                
+Good Link, depth: 5
+	https://medium.com/membership
+	Membership
+Broken Link, depth: 4
+	#twtr-main
+Good Link, depth: 4
+	https://medium.com/civic-tech-thoughts-from-joshdata/mayors-advisory-group-issues-recommendations-on-how-to-find-your-open-data-stakeholders-473d52072d34?source=collection_home---1------0-----------------------
+	Mayor’s advisory group issues recommendations on how to find your open data stakeholders
+Good Link, depth: 4
+	https://creativecommons.org/about/
+	What We Do
+Good Link, depth: 4
+	https://topatoco.com/collections/jeph-jacques
+	Merchandise
+Broken Link, depth: 4
+	#twitter-privacy-1
+Good Link, depth: 5
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+	Learn about affiliates
+Good Link, depth: 4
+	https://www.instagram.com/americanbooksellers/
+	 
+Broken Link, depth: 4
+	None
+Good Link, depth: 4
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 4
+	https://medium.com/civic-tech-thoughts-from-joshdata
+	
+Good Link, depth: 2
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/
+	这篇文档当然还有中文版.
+Broken Link, depth: 4
+	/bookshop/currency/AUD
+Broken Link, depth: 5
+	/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F&source=--------------------------lo_home_nav-----------
+Broken Link, depth: 5
+	/en/rules-and-policies/twitter-rules.html
+Broken Link, depth: 5
+	#what-are-cookies
+Good Link, depth: 5
+	https://help.twitter.com/
+	
+                
+                 
+  
+  
+
+                
+                  Help Center
+                
+              
+Good Link, depth: 4
+	https://medium.com/civic-tech-thoughts-from-joshdata/mayors-advisory-group-issues-recommendations-on-how-to-find-your-open-data-stakeholders-473d52072d34?source=collection_home---1------0-----------------------
+	Mayor’s advisory group issues recommendations on how to find your o...In 2016, DC Mayor Bowser established an Open Government Advisory Group (OGAG) comprised of members of the public (like me) and government…
+Broken Link, depth: 4
+	#twtr-main
+Good Link, depth: 5
+	http://www.asofterworld.com
+	
+Good Link, depth: 4
+	https://twitter.com/en/tos?wcmmode=disabled#intlTerms
+	Terms of Service
+Good Link, depth: 4
+	https://network.creativecommons.org/2021-regional-meetings/
+	2021 Regional Meetings
+Good Link, depth: 4
+	http://softerworld.tumblr.com/
+	tumblr
+Broken Link, depth: 5
+	#content
+Broken Link, depth: 4
+	
+Good Link, depth: 5
+	https://www.penguinrandomhouse.com/books/576761
+	Penguin Random House
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+	other covered services
+Good Link, depth: 3
+	https://en.wikipedia.org/wiki/Dream_Chaser
+	Dream Chaser
+Good Link, depth: 5
+	https://medium.com/membership?source=about_page---membership_top_nav_link-----------------------about_page_membership_top_nav_link-&utm_source=about&utm_medium=landing-page&utm_campaign=membership&utm_content=top-nav
+	Membership
+Broken Link, depth: 4
+	/contact
+Good Link, depth: 5
+	https://what-if.xkcd.com/
+	how to:
+Good Link, depth: 5
+	https://about.medium.com/creators/
+	Write
+Broken Link, depth: 4
+	/
+Good Link, depth: 4
+	https://www.questionablecontent.net/archive.php
+	Archive
+Good Link, depth: 3
+	https://www.facebook.com/smbccomics
+	
+Good Link, depth: 4
+	https://sites.prh.com/newsletter
+	JOIN OUR EMAIL PROGRAM FOR EXPERT PICKS
+Good Link, depth: 5
+	https://xkcd.com/what-if-2
+	here!
+Good Link, depth: 5
+	https://wordpress.org/about/
+	About WordPress
+Good Link, depth: 4
+	https://creativecommons.org/blog/
+	Blog
+Good Link, depth: 4
+	https://help.twitter.com/
+	
+                
+                 
+  
+  
+
+                
+                  Help Center
+                
+              
+Good Link, depth: 5
+	https://www.amazon.com/exec/obidos/ASIN/0525537112/
+	Amazon
+Good Link, depth: 5
+	https://twitter.com/en/tos#update
+	Terms of Service
+Good Link, depth: 4
+	https://www.readbrightly.com/back-to-school-essentials/
+	
+                  
+                  Books to Support Mental Health, Learning, and More
+                  Learn More >
+                
+Good Link, depth: 4
+	https://medium.com/about?source=membership_page---about_top_nav_link-----------------------membership_page_about_top_nav_link-&utm_source=membership&utm_medium=landing-page&utm_campaign=about&utm_content=top-nav
+	Our story
+Good Link, depth: 5
+	https://www.questionablecontent.net
+	
+Broken Link, depth: 4
+	#
+Good Link, depth: 4
+	https://www.questionablecontent.net/about.php
+	About
+Good Link, depth: 3
+	https://xkcd.com/whatif2
+	preorder a copy
+Good Link, depth: 5
+	https://xkcd.com/what-if-2
+	
+Broken Link, depth: 4
+	/en-US/
+Good Link, depth: 4
+	https://creativecommons.org/blog/
+	Blog
+Good Link, depth: 5
+	https://blog.xkcd.com/
+	xkcd
+Broken Link, depth: 4
+	/books/
+Good Link, depth: 2
+	https://www.crummy.com/software/BeautifulSoup/bs4/doc.ko/
+	이 문서는 한국어 번역도 가능합니다.
+Broken Link, depth: 4
+	/
+Good Link, depth: 5
+	https://twitter.com/privacy
+	Privacy Policy
+Broken Link, depth: 4
+	javascript:void(0)
+Broken Link, depth: 5
+	/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2F&source=--------------------------lo_home_nav-----------
+Good Link, depth: 4
+	https://twitter.com/
+	
+                  Twitter.com
+                
+Broken Link, depth: 5
+	#why-do-services-use
+Broken Link, depth: 4
+	
+Broken Link, depth: 3
+	#twitter-privacy-9.1
+Broken Link, depth: 5
+	#where-are-tech-used
+Good Link, depth: 4
+	https://www.penguinrandomhouse.com/articles/benefits-of-reading-books/
+	
+                  
+                  The Health Benefits of Reading
+                  Learn More >
+                
+Good Link, depth: 4
+	https://support.google.com/accounts/answer/3118621?en_US=en
+	 Google settings
+Broken Link, depth: 4
+	#twitter-privacy-1
+Good Link, depth: 4
+	http://www.asofterworld.com/projects.php
+	projects
+Good Link, depth: 4
+	https://www.mozilla.org/firefox
+	https://www.mozilla.org/firefox
+Good Link, depth: 5
+	https://twitter.com
+	
+                
+                   
+                  Twitter logo icon
+                
+              
+Broken Link, depth: 5
+	#
+Good Link, depth: 4
+	https://donate.torproject.org
+	Donate Now
+Good Link, depth: 5
+	https://medium.com/creators?source=about_page---creators_top_nav_link-----------------------about_page_creators_top_nav_link-&utm_source=about&utm_medium=landing-page&utm_campaign=creators&utm_content=top-nav
+	Write
+Good Link, depth: 4
+	https://www.questionablecontent.net/cast.php
+	Cast
+Good Link, depth: 5
+	http://www.asofterworld.com
+	
+Good Link, depth: 5
+	https://www.apple.com/safari
+	https://www.apple.com/safari
+Good Link, depth: 4
+	https://network.creativecommons.org/creative-commons-global-network-communities-activity-fund/
+	2021 Community Activities Fund
+Good Link, depth: 3
+	https://creativecommons.org/about/contact/
+	Contact
+Broken Link, depth: 5
+	#twtr-main
+Good Link, depth: 4
+	https://network.creativecommons.org/?ref=global-affiliate-network
+	Creative Commons Global Network
+Good Link, depth: 4
+	https://www.questionablecontent.net
+	
+Good Link, depth: 5
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Good Link, depth: 4
+	http://windows.microsoft.com/en-us/internet-explorer/download-ie/
+	upgrade now.
+Good Link, depth: 5
+	https://twitter.com/en/tos?wcmmode=disabled#intlTerms
+	Terms of Service
+Broken Link, depth: 4
+	/cookieprefs?ref_=portal_banner_cpp
+Broken Link, depth: 5
+	#content
+Good Link, depth: 5
+	https://xkcd.com
+	xkcd's
+Broken Link, depth: 4
+	None
+Good Link, depth: 4
+	https://www.google.com/search?tbm=isch&q=hail+car+windows
+	extreme damage to cars
+Good Link, depth: 4
+	https://www.questionablecontent.net/about.php
+	About
+Good Link, depth: 4
+	https://business.twitter.com/en.html
+	
+                
+                 
+  
+  
+
+                
+                  Business
+                
+              
+Good Link, depth: 4
+	https://www.barnesandnoble.com/w/what-if-2-randall-munroe/1140943988?ean=9780525537113
+	Barnes and Noble
+Good Link, depth: 3
+	https://what-if.xkcd.com/158
+	◀︎
+Good Link, depth: 5
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 5
+	https://tweetdeck.twitter.com/
+	TweetDeck
+Good Link, depth: 3
+	https://twitter.com/birdlord
+	Emily's twitter
+Good Link, depth: 4
+	https://torproject.org
+	https://torproject.org
+Good Link, depth: 5
+	http://www.asofterworld.com
+	
+Good Link, depth: 4
+	https://www.questionablecontent.net/QCRSS.xml
+	RSS
+Good Link, depth: 5
+	https://pett-prod.s3.amazonaws.com/prd/t24664/html/preview_1.html
+	 
+Good Link, depth: 4
+	https://www.instagram.com/xkcd/
+	IG
+Good Link, depth: 5
+	https://medium.com/?source=membership_page---nav_logo-----------------------membership_page_nav_logo-&utm_source=membership&utm_medium=landing-page&utm_campaign=home&utm_content=top-nav
+	
+Good Link, depth: 5
+	https://twitter.com/privacy
+	Privacy Policy
+Good Link, depth: 3
+	http://optout.aboutads.info
+	optout.aboutads.info
+Broken Link, depth: 4
+	#twitter-privacy-2
+Broken Link, depth: 4
+	/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang_ais
+Good Link, depth: 5
+	https://twitter.com/settings/account
+	Learn how to update your settings
+Broken Link, depth: 3
+	#twitter-privacy-3.1
+Broken Link, depth: 3
+	#twitter-privacy-1
+Good Link, depth: 4
+	https://twitter.com/xkcd/
+	TW
+Good Link, depth: 4
+	https://twitter.com
+	
+                
+                   
+                  Twitter logo icon
+                
+              
+Broken Link, depth: 4
+	#twtr-main
+Broken Link, depth: 4
+	#intellectual-property
+Broken Link, depth: 3
+	#
+Broken Link, depth: 4
+	/chrome/
+Broken Link, depth: 4
+	#jump-content
+Broken Link, depth: 4
+	#twitter-privacy-2
+Broken Link, depth: 5
+	#twtr-main
+Good Link, depth: 4
+	https://creativecommons.org/use-remix/
+	Use & remix
+Good Link, depth: 4
+	https://medium.com/m/signin?source=membership_page---nav_signin-----------------------membership_page_nav_signin-&utm_source=membership&utm_medium=landing-page&utm_campaign=signin&utm_content=top-nav
+	Sign in
+Broken Link, depth: 4
+	/?output=images&tbm=isch&sa=X&ved=0ahUKEwix0cnMrrL5AhWioVwKHeJzCLAQPAgC
+Broken Link, depth: 4
+	/en/rules-and-policies/twitter-rules.html
+Good Link, depth: 5
+	https://medium.com/m/signin?source=about_page---nav_cta-----------------------about_page_nav_cta-&utm_source=about&utm_medium=landing-page&utm_campaign=cta&utm_content=top-nav
+	
+              
+                Get started
+                Get started
+              
+            
+Broken Link, depth: 4
+	#twitter-privacy-3.1
+Broken Link, depth: 4
+	#twitter-privacy-1
+Good Link, depth: 5
+	https://wordpress.org/
+	Powered by WordPress
+Good Link, depth: 5
+	https://help.twitter.com/using-twitter/twitter-supported-browsers
+	Help Center
+Broken Link, depth: 4
+	/
+Good Link, depth: 4
+	http://softerworld.tumblr.com/
+	tumblr
+Good Link, depth: 5
+	https://creativecommons.org/about/
+	What We Do
+Broken Link, depth: 5
+	https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496
+Good Link, depth: 5
+	https://what-if.xkcd.com/158
+	◀︎
+Good Link, depth: 4
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 5
+	https://medium.com/about?autoplay=1
+	Our story
+Broken Link, depth: 4
+	None
+Good Link, depth: 5
+	https://medium.com/creators?source=about_page---creators_top_nav_link-----------------------about_page_creators_top_nav_link-&utm_source=about&utm_medium=landing-page&utm_campaign=creators&utm_content=top-nav
+	Write
+Good Link, depth: 5
+	https://what-if.xkcd.com/158
+	◀︎
+Good Link, depth: 4
+	https://torproject.org/en/
+	
+      
+      Tor Logo
+    
+Good Link, depth: 5
+	https://twitter.com/tos
+	Terms of Service
+Good Link, depth: 4
+	http://www.asofterworld.com/projects.php
+	projects
+Good Link, depth: 5
+	https://wordpress.org/
+	Powered by WordPress
+Good Link, depth: 3
+	https://creativecommons.org/privacy/
+	Privacy
+Good Link, depth: 5
+	https://creativecommons.org/share-your-work/
+	Share your work
+Good Link, depth: 4
+	https://medium.com/@joshuatauberer
+	
+Good Link, depth: 4
+	https://policies.google.com/technologies/cookies?en_US=en
+	learn more
+Good Link, depth: 5
+	https://topatoco.com/collections/jeph-jacques
+	Merchandise
+Good Link, depth: 5
+	https://www.questionablecontent.net/about.php
+	About
+Good Link, depth: 4
+	http://www.asofterworld.com/index.php?id=0
+	fnord
+Broken Link, depth: 4
+	/what-if-2/
+Good Link, depth: 5
+	http://www.asofterworld.com/archive.php
+	archives
+Good Link, depth: 4
+	https://medium.com/m/signin?source=about_page---nav_cta-----------------------about_page_nav_cta-&utm_source=about&utm_medium=landing-page&utm_campaign=cta&utm_content=top-nav
+	
+              
+                Get started
+                Get started
+              
+            
+Good Link, depth: 4
+	https://medium.com/@joshuatauberer
+	Joshua Tauberer
+Good Link, depth: 5
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+	Learn about affiliates
+Good Link, depth: 4
+	https://creativecommons.org/use-remix/search-the-commons/
+	Search the Commons
+Good Link, depth: 4
+	https://www.questionablecontent.net/archive.php
+	Archive
+Good Link, depth: 4
+	https://network.creativecommons.org/cc-openculture-platform/
+	Open GLAM Platform
+Broken Link, depth: 3
+	view.php?comic=1
+Good Link, depth: 3
+	http://www.patreon.com/jephjacques
+	
+Good Link, depth: 4
+	https://network.creativecommons.org/?ref=global-affiliate-network
+	Creative Commons Global Network
+Good Link, depth: 4
+	https://creativecommons.org/blog/
+	Blog
+Broken Link, depth: 4
+	None
+Broken Link, depth: 4
+	https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion
+Good Link, depth: 5
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 4
+	https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=--------------------------new_post_sidenav-----------
+	Write
+Broken Link, depth: 3
+	twitterhpgjerufcvrmzerg2novpipy42rk3anvb5b7np4zggm4rwaqd.onion
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+Broken Link, depth: 4
+	http://asofterworld.com/rssfeed.php
+Good Link, depth: 5
+	https://www.barnesandnoble.com/w/what-if-2-randall-munroe/1140943988?ean=9780525537113
+	Barnes and Noble
+Good Link, depth: 4
+	https://creativecommons.org/use-remix/search-the-commons/
+	Search the Commons
+Good Link, depth: 5
+	https://medium.com/m/signin?source=about_page---nav_signin-----------------------about_page_nav_signin-&utm_source=about&utm_medium=landing-page&utm_campaign=signin&utm_content=top-nav
+	Sign in
+Good Link, depth: 2
+	http://kondou.com/BS4/
+	外部リンク
+Good Link, depth: 4
+	https://twitter.com/en/tos?wcmmode=disabled#intlTerms
+	Terms of Service
+Good Link, depth: 5
+	https://www.questionablecontent.net/archive.php
+	Archive
+Good Link, depth: 3
+	https://blog.xkcd.com/author/randallpmunroe/
+	Randall
+Good Link, depth: 5
+	https://pett-prod.s3.amazonaws.com/prd/t24666/html/preview_1.html
+	 
+Good Link, depth: 4
+	https://creativecommons.org/blog/
+	Blog
+Good Link, depth: 3
+	http://softerworld.tumblr.com/
+	tumblr
+Good Link, depth: 3
+	https://www.smbc-comics.com/comic/rss
+	
+Good Link, depth: 5
+	https://www.questionablecontent.net/cast.php
+	Cast
+Good Link, depth: 5
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 4
+	https://twitter.com/PBFcomics
+	
+Good Link, depth: 4
+	http://www.patreon.com/jephjacques
+	subscribe to my Patreon
+Broken Link, depth: 5
+	#twtr-main
+Good Link, depth: 5
+	https://Blackwells.co.uk
+	< Back to Website
+Broken Link, depth: 5
+	/atom.xml
+Good Link, depth: 5
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 4
+	https://www.penguinrandomhouse.com/the-read-down/new-book-releases-august/
+	
+                  
+                  New Releases
+                  Learn More >
+                
+Good Link, depth: 5
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 5
+	https://medium.com/
+	Homepage
+Good Link, depth: 5
+	http://www.asofterworld.com
+	
+Good Link, depth: 5
+	https://wordpress.org/about/
+	About WordPress
+Good Link, depth: 5
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Broken Link, depth: 4
+	#MainContent
+Good Link, depth: 4
+	https://www.chapters.indigo.ca/account-centre/en-ca/
+	create account
+Broken Link, depth: 4
+	None
+Good Link, depth: 4
+	https://www.questionablecontent.net/contact.php
+	Contact
+Broken Link, depth: 5
+	/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2F&source=--------------------------lo_home_nav-----------
+Good Link, depth: 3
+	http://www.facebook.com/pages/A-Softer-World/12022565177
+	facebook
+Good Link, depth: 5
+	https://creativecommons.org/use-remix/
+	Use & remix
+Good Link, depth: 4
+	https://network.creativecommons.org/about/
+	About
+Broken Link, depth: 5
+	/
+Good Link, depth: 3
+	https://www.patreon.com/ZachWeinersmith?ty=h
+	
+Good Link, depth: 4
+	https://www.facebook.com/IndieBound/
+	 
+Good Link, depth: 4
+	https://medium.com/plans?source=membership_page---nav_cta-----------------------membership_page_nav_cta-&utm_source=membership&utm_medium=landing-page&utm_campaign=plans&utm_content=top-nav
+	
+              
+                Get unlimited access
+                Get started
+              
+            
+Broken Link, depth: 3
+	twitterhbmit57bzbcjnujedrn7uk73geo4ackio4lxdj6t7w6f4zsid.onion
+Good Link, depth: 4
+	https://network.creativecommons.org/?ref=global-affiliate-network
+	Creative Commons Global Network
+Good Link, depth: 3
+	http://www.crummy.com/
+	Leonard Richardson
+Good Link, depth: 5
+	https://www.questionablecontent.net
+	
+Good Link, depth: 5
+	https://creativecommons.org/
+	
+
+
+Good Link, depth: 5
+	https://pett-prod.s3.amazonaws.com/prd/t24663/html/preview_1.html
+	 
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates
+	Learn about affiliates
+Broken Link, depth: 4
+	#ContentArea
+Good Link, depth: 5
+	https://network.creativecommons.org/governance/
+	Governance
+Good Link, depth: 4
+	https://help.twitter.com/en/rules-and-policies#twitter-rules
+	Twitter Rules and Policies
+Good Link, depth: 4
+	https://www.amazon.com/exec/obidos/ASIN/0525537112/
+	Amazon
+Good Link, depth: 4
+	http://www.patreon.com/jephjacques
+	subscribe to my patreon
+Good Link, depth: 3
+	https://microsoft.com/edge
+	https://microsoft.com/edge
+Good Link, depth: 4
+	https://microsoft.com/edge
+	https://microsoft.com/edge
+Good Link, depth: 5
+	https://microsoft.com/edge
+	https://microsoft.com/edge
