@@ -4,8 +4,7 @@ from guardicore_crawler.components.html_tag import HTMLTag
 from guardicore_crawler.components.broken_url import BrokenUrl
 from guardicore_crawler.components.good_url import GoodUrl
 from guardicore_crawler.helpers.thread import ThreadWrapper
-from time import time
-
+from concurrent.futures import ThreadPoolExecutor as ThreadPool
 class PageCrawler(object):
     """
     This class is responsible for crawling the web.
@@ -28,11 +27,11 @@ class PageCrawler(object):
     def crawl(self):
        
         if self.url_parser.is_broken():
-            print("adding broken url: {}")
+            # print("adding broken url")
             self.report.insert_item(BrokenUrl(self.depth, self.url))
             return
         
-        print("added good url")
+        # print("added good url")
         self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
         
         if self.depth == self.max_depth:
@@ -53,12 +52,18 @@ class PageCrawler(object):
             self.crawlers.append(PageCrawler(url, text, self.user_agent,\
                                 self.report.file_name, self.depth))
         
-        for crawler in self.crawlers:
-            print(crawler)
-            self.threads.append(ThreadWrapper(crawler.crawl))
-            self.threads[-1].start()
+        with ThreadPool() as executor:
+            for crawler in self.crawlers:
+                executor.submit(crawler.crawl)
+        # for crawler in self.crawlers:
+            # print(crawler)
+            # self.threads.append(ThreadWrapper(crawler.crawl))
+            # self.threads[-1].start()
+            
+        # self.__wrap_up()
             
     
-    def wrap_up(self):
+    def __wrap_up(self):
         for thread in self.threads:
+            print("waiting for thread to finish")
             thread.join()

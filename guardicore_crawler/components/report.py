@@ -17,7 +17,7 @@ class Report(Singleton):
         self.logger = Logger(f)
         self.tracker_map = {}
         self.item_counter = 0
-        self.mutex = ThreadLock()
+        self.lock = ThreadLock()
     
     def clear(self):
         self.logger.clear_log()
@@ -27,15 +27,15 @@ class Report(Singleton):
         if not issubclass(type(item),ReportItem):
             raise TypeError('item must be of type ReportItem')
             
-        self.mutex.lock()
+        self.lock.lock()
         if not self.contains_name(item.name):
             self.__add_item_to_map(item.name)
             self.__write(item)
             self.item_counter += 1
-            self.mutex.unlock()
+            self.lock.unlock()
             return True
 
-        self.mutex.unlock()
+        self.lock.unlock()
         return False
 
     def get_num_of_items(self):
