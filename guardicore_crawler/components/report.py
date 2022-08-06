@@ -2,7 +2,7 @@ from guardicore_crawler.helpers.singleton import Singleton
 from guardicore_crawler.helpers.file_controller import FileController
 from guardicore_crawler.helpers.logger import Logger
 from guardicore_crawler.components.report_item import ReportItem
-
+from guardicore_crawler.helpers.thread_lock import ThreadLock
 """
     This class writes the crawler report
     TODO Should be thread safe
@@ -17,6 +17,7 @@ class Report(Singleton):
         self.logger = Logger(f)
         self.tracker_map = {}
         self.item_counter = 0
+        self.mutex = ThreadLock()
     
     def clear(self):
         self.logger.clear_log()
@@ -26,11 +27,15 @@ class Report(Singleton):
         if not issubclass(type(item),ReportItem):
             raise TypeError('item must be of type ReportItem')
             
+        self.mutex.lock()
         if not self.contains_name(item.name):
             self.__add_item_to_map(item.name)
             self.__write(item)
             self.item_counter += 1
+            self.mutex.unlock()
             return True
+
+        self.mutex.unlock()
         return False
 
     def get_num_of_items(self):
