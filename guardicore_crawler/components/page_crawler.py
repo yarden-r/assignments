@@ -4,12 +4,12 @@ from guardicore_crawler.components.html_tag import HTMLTag
 from guardicore_crawler.components.broken_url import BrokenUrl
 from guardicore_crawler.components.good_url import GoodUrl
 from guardicore_crawler.helpers.global_threadpool import GlobalThreadPool
-
+from guardicore_crawler.helpers.thread import ThreadWrapper
 class PageCrawler(object):
     """
     This class is responsible for crawling the web.
     """
-    max_depth = 3
+    max_depth = 2
     
     def __init__(self, url , user_agent, file_name,text = 'HomePage', depth=0):
         self.url = url
@@ -20,16 +20,18 @@ class PageCrawler(object):
         self.url_parser = URLParser(url, user_agent)
         self.crawlers = []
         self.threads = []
-        self.threadpool = GlobalThreadPool()
+        # self.threadpool = GlobalThreadPool()
 
     def __str__(self):
         return "PageCrawler: depth: {}, {}, {}".format(self.depth, self.url, self.text)
 
     def crawl(self):
        
-        if self.url_parser.is_broken():
-            self.report.insert_item(BrokenUrl(self.depth, self.url))
-            return
+        print ("Crawling: {}".format(self.url))
+
+        # if self.url_parser.is_broken():
+        #     self.report.insert_item(BrokenUrl(self.depth, self.url))
+        #     return
         
         # print("added good url")
         self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
@@ -39,7 +41,6 @@ class PageCrawler(object):
 
         
         
-        print("depth: {}".format(self.depth))
         self.depth += 1
         links = self.url_parser.get_elements_by_tag('a')
         for link in links:
@@ -49,10 +50,24 @@ class PageCrawler(object):
             
             if self.report.contains_name(url):
                 continue
+            
+            p = PageCrawler(url, self.user_agent, self.report.file_name, text, self.depth)
 
-            self.crawlers.append(PageCrawler(url, self.user_agent,\
-                                self.report.file_name, text ,self.depth))
+            if p.url_parser.is_broken():
+                self.report.insert_item(BrokenUrl(self.depth, url))
+                continue
+
+            self.crawlers.append(p)
         
-        with self.threadpool as executor:
-            for crawler in self.crawlers:
-                executor.submit(crawler.crawl)
+
+        for crawler in self.crawlers:
+            self.threads.append(ThreadWrapper(crawler.crawl))
+        
+        for thread in self.threads:
+            thread.start()
+        
+        print("crawled {} in depth {}".format(self.url, self.depth))
+
+    def wrap_up(self):
+        for thread in self.threads:
+            thread.join()

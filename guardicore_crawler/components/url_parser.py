@@ -26,7 +26,8 @@ class URLParser(object):
 
     def is_broken(self):
 
-        if self.get_request() is None or self.get_request().status_code != 200:
+        if self.url is None or self.get_request() is None \
+                            or self.get_request().status_code != 200:
             return True
         return False
     

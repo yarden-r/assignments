@@ -7,6 +7,7 @@ if __name__ == "__main__":
     crawler.report.clear()
     start = perf_counter()
     crawler.crawl()
+    crawler.wrap_up()
     end = perf_counter()
     print("Time: {}".format(end - start))
 

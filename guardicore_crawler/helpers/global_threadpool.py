@@ -13,4 +13,7 @@ class GlobalThreadPool(Singleton):
     
     def submit(self, func, *args, **kwargs):
         return self.pool.submit(func, *args, **kwargs)
+
+    def map(self, func, *iterables, **kwargs):
+        return self.pool.map(func, *iterables, **kwargs)
     
