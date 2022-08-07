@@ -15,13 +15,13 @@ class URLParser(object):
 
     def get_request(self):
         #catch exception if url is invalid
-        if self.got:
+        if self.got == True:
             return self.r
         try:
             self.r = requests.get(self.url, headers={'User-Agent': self.user_agent})
             self.got = True
             return self.r
-        except Exception as e:
+        except:
             return None
 
     def is_broken(self):

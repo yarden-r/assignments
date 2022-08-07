@@ -1,3 +1,4 @@
+from socket import timeout
 from guardicore_crawler.components.report import Report
 from guardicore_crawler.components.url_parser import URLParser
 from guardicore_crawler.components.html_tag import HTMLTag
@@ -29,9 +30,13 @@ class PageCrawler(object):
        
         print ("Crawling: {}".format(self.url))
 
+        if self.depth == 0 and self.url_parser.is_broken():
+            self.report.insert_item(BrokenUrl(self.depth, self.url))
+            return
+
         self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
         
-        if self.depth == self.max_depth:
+        if self.depth == PageCrawler.max_depth:
             return
 
         self.depth += 1
@@ -63,4 +68,4 @@ class PageCrawler(object):
 
     def wrap_up(self):
         for thread in self.threads:
-            thread.join()
+            thread.join(40)

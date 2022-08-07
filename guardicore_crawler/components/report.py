@@ -36,17 +36,6 @@ class Report(Singleton):
                 self.__write(item)
                 self.item_counter += 1
 
-        # # self.lock.lock()
-        # if not self.contains_name(item.name):
-        #     self.__add_item_to_map(item.name)
-        #     self.__write(item)
-        #     self.item_counter += 1
-        #     # self.lock.unlock()
-        #     return True
-
-        # # self.lock.unlock()
-        # return False
-
     def get_num_of_items(self):
         return self.item_counter
 
