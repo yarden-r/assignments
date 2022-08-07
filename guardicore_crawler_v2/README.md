@@ -28,3 +28,7 @@ Instructions:
       depth = depth of current page, defaults to 0
 
 4. After making PageCrawler, use crawl() method and then use wrap_up() method
+
+Notes:
+1. In hindsight a threadpool would have been fit to use to manage threads
+2. Please refere to png file for UML diagram of project

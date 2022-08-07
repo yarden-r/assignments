@@ -1,5 +1,5 @@
 from guardicore_crawler_v2.components.report import Report
-from guardicore_crawler_v2.components.url_parser import URLParser
+from guardicore_crawler_v2.components.url_traverser import URLTraverser
 from guardicore_crawler_v2.components.html_tag import HTMLTag
 from guardicore_crawler_v2.components.broken_url import BrokenUrl
 from guardicore_crawler_v2.components.good_url import GoodUrl
@@ -17,7 +17,7 @@ class PageCrawler(object):
         self.depth = depth
         self.text = text
         self.report = Report(file_name)
-        self.url_parser = URLParser(url, user_agent)
+        self.url_traverser = URLTraverser(url, user_agent)
         self.crawlers = []
         self.threads = GlobalQueue()
         PageCrawler.max_depth = max_depth
@@ -28,7 +28,7 @@ class PageCrawler(object):
     def crawl(self):
        
         # print ("Crawling: {}".format(self.url))
-        if self.depth == 0 and self.url_parser.is_broken():
+        if self.depth == 0 and self.url_traverser.is_broken():
             self.report.insert_item(BrokenUrl(self.url))
             return
         
@@ -39,7 +39,7 @@ class PageCrawler(object):
 
         
         self.depth += 1
-        links = self.url_parser.get_elements_by_tag('a')
+        links = self.url_traverser.get_elements_by_tag('a')
         for link in links:
             tag = HTMLTag(link)
             text = tag.get_text()
@@ -51,7 +51,7 @@ class PageCrawler(object):
             p = PageCrawler(url, self.user_agent, self.report.file_name,\
                                         PageCrawler.max_depth ,text, self.depth)
 
-            if p.url_parser.is_broken():
+            if p.url_traverser.is_broken():
                 self.report.insert_item(BrokenUrl(self.depth, url))
                 continue
 

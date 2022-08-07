@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup ;""" This is a library that allows us to \
                                       parse html """
                                     
 
-class URLParser(object):
+class URLTraverser(object):
     """
         This class is responsible for parsing the html of a url.
     """
