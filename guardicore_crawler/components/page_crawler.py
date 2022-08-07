@@ -20,7 +20,6 @@ class PageCrawler(object):
         self.url_parser = URLParser(url, user_agent)
         self.crawlers = []
         self.threads = []
-        # self.threadpool = GlobalThreadPool()
 
     def __str__(self):
         return "PageCrawler: depth: {}, {}, {}".format(self.depth, self.url, self.text)
@@ -28,12 +27,10 @@ class PageCrawler(object):
     def crawl(self):
        
         print ("Crawling: {}".format(self.url))
-
-        # if self.url_parser.is_broken():
-        #     self.report.insert_item(BrokenUrl(self.depth, self.url))
-        #     return
+        if self.depth == 0 and self.url_parser.is_broken():
+            self.report.insert_item(BrokenUrl(self.url))
+            return
         
-        # print("added good url")
         self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
         
         if self.depth == self.max_depth:

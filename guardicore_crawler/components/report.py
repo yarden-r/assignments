@@ -6,7 +6,6 @@ from guardicore_crawler.helpers.thread_lock import ThreadLock
 from guardicore_crawler.helpers.unique_map import UniqueMap
 """
     This class writes the crawler report
-    TODO Should be thread safe
 """
 
 class Report(Singleton):
