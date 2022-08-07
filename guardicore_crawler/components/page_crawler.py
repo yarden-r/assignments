@@ -1,3 +1,4 @@
+from socket import timeout
 from guardicore_crawler.components.report import Report
 from guardicore_crawler.components.url_parser import URLParser
 from guardicore_crawler.components.html_tag import HTMLTag
@@ -27,13 +28,27 @@ class PageCrawler(object):
     def crawl(self):
        
         print ("Crawling: {}".format(self.url))
+<<<<<<< HEAD
         if self.depth == 0 and self.url_parser.is_broken():
             self.report.insert_item(BrokenUrl(self.url))
             return
         
         self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
+=======
+
+        if self.depth == 0 and self.url_parser.is_broken():
+            if self.report.contains_name(self.url):
+                print ("Already crawled: {}".format(self.url))
+                return
+            self.report.insert_item(BrokenUrl(self.depth, self.url))
+            print ("Broken: {} was never crawled".format(self.url))
+            return
+
+        if self.report.contains_name(self.url) == False:
+            self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
+>>>>>>> 16526ccb1471151ed68a24deaea3638eb22cc87e
         
-        if self.depth == self.max_depth:
+        if self.depth == PageCrawler.max_depth:
             return
 
         
@@ -45,12 +60,14 @@ class PageCrawler(object):
             url = tag.get_attribute('href')
             
             if self.report.contains_name(url):
+                print("{} was visited".format(url))
                 continue
             
             p = PageCrawler(url, self.user_agent, self.report.file_name, text, self.depth)
 
-            if p.url_parser.is_broken():
-                self.report.insert_item(BrokenUrl(self.depth, url))
+            if p.url_parser.is_broken() and p.report.contains_name(url) == False:
+                print("Broken: {} was never visited".format(url))
+                p.report.insert_item(BrokenUrl(self.depth, url))
                 continue
 
             self.crawlers.append(p)
@@ -66,4 +83,4 @@ class PageCrawler(object):
 
     def wrap_up(self):
         for thread in self.threads:
-            thread.join()
+            thread.join(40)

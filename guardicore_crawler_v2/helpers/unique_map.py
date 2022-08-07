@@ -7,7 +7,7 @@ class UniqueMap(object):
         self.map = {}
 
     def insert(self, key, value):
-        if self.contains(key, value):
+        if not self.contains(key, value):
             self.map[key] = value
         
     def contains(self, key, value):

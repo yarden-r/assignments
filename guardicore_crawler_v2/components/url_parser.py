@@ -1,5 +1,6 @@
-import requests ;""" This is a library that allows us to make \
-                     requests to the internet """
+import requests
+from guardicore_crawler_v2.helpers.thread import ThreadWrapper
+
 
 from bs4 import BeautifulSoup ;""" This is a library that allows us to \
                                       parse html """
@@ -14,7 +15,6 @@ class URLParser(object):
         self.got = False
 
     def get_request(self):
-        #catch exception if url is invalid
         if self.got == True:
             return self.r
         try:

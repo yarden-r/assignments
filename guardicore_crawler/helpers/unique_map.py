@@ -8,7 +8,13 @@ class UniqueMap(object):
 
     def insert(self, key, value):
         if self.contains(key, value):
+<<<<<<< HEAD
             self.map[key] = value
+=======
+            return False
+        self.map[key] = value
+        return True
+>>>>>>> 16526ccb1471151ed68a24deaea3638eb22cc87e
         
     def contains(self, key, value):
         if key in self.map and self.map[key] == value:
