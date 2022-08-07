@@ -31,10 +31,15 @@ class PageCrawler(object):
         print ("Crawling: {}".format(self.url))
 
         if self.depth == 0 and self.url_parser.is_broken():
+            if self.report.contains_name(self.url):
+                print ("Already crawled: {}".format(self.url))
+                return
             self.report.insert_item(BrokenUrl(self.depth, self.url))
+            print ("Broken: {} was never crawled".format(self.url))
             return
 
-        self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
+        if self.report.contains_name(self.url) == False:
+            self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
         
         if self.depth == PageCrawler.max_depth:
             return
@@ -47,12 +52,14 @@ class PageCrawler(object):
             url = tag.get_attribute('href')
             
             if self.report.contains_name(url):
+                print("{} was visited".format(url))
                 continue
             
             p = PageCrawler(url, self.user_agent, self.report.file_name, text, self.depth)
 
-            if p.url_parser.is_broken():
-                self.report.insert_item(BrokenUrl(self.depth, url))
+            if p.url_parser.is_broken() and p.report.contains_name(url) == False:
+                print("Broken: {} was never visited".format(url))
+                p.report.insert_item(BrokenUrl(self.depth, url))
                 continue
 
             self.crawlers.append(p)
