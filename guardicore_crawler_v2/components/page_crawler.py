@@ -3,8 +3,9 @@ from guardicore_crawler_v2.components.url_parser import URLParser
 from guardicore_crawler_v2.components.html_tag import HTMLTag
 from guardicore_crawler_v2.components.broken_url import BrokenUrl
 from guardicore_crawler_v2.components.good_url import GoodUrl
-from guardicore_crawler_v2.helpers.global_threadpool import GlobalThreadPool
 from guardicore_crawler_v2.helpers.thread import ThreadWrapper
+from guardicore_crawler_v2.helpers.global_queue import GlobalQueue
+
 class PageCrawler(object):
     """
     This class is responsible for crawling the web.
@@ -18,7 +19,7 @@ class PageCrawler(object):
         self.report = Report(file_name)
         self.url_parser = URLParser(url, user_agent)
         self.crawlers = []
-        self.threads = []
+        self.threads = GlobalQueue()
         PageCrawler.max_depth = max_depth
 
     def __str__(self):
@@ -26,7 +27,7 @@ class PageCrawler(object):
 
     def crawl(self):
        
-        print ("Crawling: {}".format(self.url))
+        # print ("Crawling: {}".format(self.url))
         if self.depth == 0 and self.url_parser.is_broken():
             self.report.insert_item(BrokenUrl(self.url))
             return
@@ -47,7 +48,8 @@ class PageCrawler(object):
             if self.report.contains_name(url):
                 continue
             
-            p = PageCrawler(url, self.user_agent, self.report.file_name, text, self.depth)
+            p = PageCrawler(url, self.user_agent, self.report.file_name,\
+                                        PageCrawler.max_depth ,text, self.depth)
 
             if p.url_parser.is_broken():
                 self.report.insert_item(BrokenUrl(self.depth, url))
@@ -62,8 +64,11 @@ class PageCrawler(object):
         for thread in self.threads:
             thread.start()
         
-        print("crawled {} in depth {}".format(self.url, self.depth))
+        # print("crawled {} in depth {}".format(self.url, self.depth))
 
     def wrap_up(self):
+        """
+            This method is responsible for wrapping up the crawler.
+        """
         for thread in self.threads:
             thread.join()

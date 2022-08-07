@@ -4,11 +4,16 @@ from guardicore_crawler_v2.helpers.logger import Logger
 from guardicore_crawler_v2.components.report_item import ReportItem
 from guardicore_crawler_v2.helpers.thread_lock import ThreadLock
 from guardicore_crawler_v2.helpers.unique_map import UniqueMap
-"""
-    This class writes the crawler report
-"""
 
 class Report(Singleton):
+    """
+        This class writes the crawler report
+        Unique map is used to track the unique urls:
+                 This is to prevent duplicates
+        Logger is used to write to the file
+        Thread lock is used to prevent multiple threads writing to the file
+                 and access the unique map
+    """
 
 # public methods
     def __init__(self,filename):
@@ -16,7 +21,6 @@ class Report(Singleton):
         f = FileController(filename,'a')
         self.logger = Logger(f)
         self.tracker_map = UniqueMap()
-        self.item_counter = 0
         self.lock = ThreadLock()
     
     def clear(self):
