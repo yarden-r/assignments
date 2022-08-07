@@ -11,6 +11,6 @@ class ThreadWrapper:
         self.thread.start()
         return self.thread
 
-    def join (self):
-        self.thread.join()
+    def join (self, timeout = None):
+        self.thread.join(timeout = timeout)
         return self.thread

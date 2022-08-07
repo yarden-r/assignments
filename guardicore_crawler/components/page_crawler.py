@@ -9,7 +9,7 @@ class PageCrawler(object):
     """
     This class is responsible for crawling the web.
     """
-    max_depth = 3
+    max_depth = 2
     
     def __init__(self, url , user_agent, file_name,text = 'HomePage', depth=0):
         self.url = url
@@ -29,11 +29,18 @@ class PageCrawler(object):
        
         print ("Crawling: {}".format(self.url))
 
+        # if self.url_parser.is_broken():
+        #     self.report.insert_item(BrokenUrl(self.depth, self.url))
+        #     return
+        
+        # print("added good url")
         self.report.insert_item(GoodUrl(self.depth, self.url, self.text))
         
         if self.depth == self.max_depth:
             return
 
+        
+        
         self.depth += 1
         links = self.url_parser.get_elements_by_tag('a')
         for link in links:
