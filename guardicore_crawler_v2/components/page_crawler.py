@@ -1,10 +1,10 @@
-from guardicore_crawler.components.report import Report
-from guardicore_crawler.components.url_parser import URLParser
-from guardicore_crawler.components.html_tag import HTMLTag
-from guardicore_crawler.components.broken_url import BrokenUrl
-from guardicore_crawler.components.good_url import GoodUrl
-from guardicore_crawler.helpers.global_threadpool import GlobalThreadPool
-from guardicore_crawler.helpers.thread import ThreadWrapper
+from guardicore_crawler_v2.components.report import Report
+from guardicore_crawler_v2.components.url_parser import URLParser
+from guardicore_crawler_v2.components.html_tag import HTMLTag
+from guardicore_crawler_v2.components.broken_url import BrokenUrl
+from guardicore_crawler_v2.components.good_url import GoodUrl
+from guardicore_crawler_v2.helpers.global_threadpool import GlobalThreadPool
+from guardicore_crawler_v2.helpers.thread import ThreadWrapper
 class PageCrawler(object):
     """
     This class is responsible for crawling the web.

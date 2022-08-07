@@ -1,0 +1,406 @@
+Good Link, depth: 0
+	https://www.google.com/
+	HomePage
+Broken Link, depth: 1
+	#
+Broken Link, depth: 1
+	/advanced_search?hl=iw&authuser=0
+Broken Link, depth: 1
+	/intl/iw/ads/
+Broken Link, depth: 1
+	/intl/iw/about.html
+Broken Link, depth: 1
+	/intl/iw/policies/privacy/
+Broken Link, depth: 1
+	/intl/iw/policies/terms/
+Good Link, depth: 1
+	https://mail.google.com/mail/?tab=wm&ogbl
+	Gmail
+Good Link, depth: 1
+	https://www.google.co.il/imghp?hl=iw&tab=wi&ogbl
+	חיפוש תמונות
+Good Link, depth: 1
+	https://www.google.co.il/intl/iw/about/products?tab=wh
+	
+Good Link, depth: 1
+	https://www.google.com/setprefs?sig=0_sQ4qD8hsVWwiRH2r6iPgmcl4ORM%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwi43s7kpLT5AhV0h_0HHV1VCmsQ2ZgBCAQ
+	العربية
+Good Link, depth: 1
+	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.com/&ec=GAZAAQ
+	כניסה
+Broken Link, depth: 2
+	/webhp?tab=ww
+Broken Link, depth: 2
+	#page-content
+Broken Link, depth: 2
+	../
+Good Link, depth: 1
+	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
+	להתקנה
+Broken Link, depth: 2
+	../
+Broken Link, depth: 2
+	../products/
+Broken Link, depth: 2
+	../commitments/
+Good Link, depth: 1
+	https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=K_-1M-2kvO_9EyKosArFEOIJLnHCg%3D
+	Google.co.il
+Good Link, depth: 1
+	https://www.google.com/setprefs?sig=0_sQ4qD8hsVWwiRH2r6iPgmcl4ORM%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwi43s7kpLT5AhV0h_0HHV1VCmsQ2ZgBCAU
+	English
+Good Link, depth: 1
+	http://www.google.co.il/intl/iw/services/
+	פתרונות עסקיים
+Broken Link, depth: 2
+	../stories/
+Broken Link, depth: 2
+	../
+Broken Link, depth: 2
+	../services/
+Broken Link, depth: 2
+	/webhp?tab=ww
+Broken Link, depth: 2
+	../belonging/
+Broken Link, depth: 2
+	#advertise
+Broken Link, depth: 2
+	#scale-your-business
+Broken Link, depth: 2
+	#earn-money-from-ads
+Broken Link, depth: 2
+	#measure-learn
+Broken Link, depth: 2
+	#see-all-solutions
+Broken Link, depth: 2
+	#
+Broken Link, depth: 2
+	/chrome/
+Broken Link, depth: 2
+	#jump-content
+Broken Link, depth: 2
+	/chrome/
+Broken Link, depth: 2
+	/chrome/browser-tools/
+Broken Link, depth: 2
+	/chrome/browser-features/#
+Broken Link, depth: 2
+	/chrome/browser-features/#google-search-bar
+Broken Link, depth: 2
+	/chrome/browser-features/#password-check
+Broken Link, depth: 2
+	/chrome/browser-features/#sync
+Broken Link, depth: 2
+	/chrome/browser-features/#dark-mode
+Broken Link, depth: 2
+	/chrome/browser-features/#tabs
+Broken Link, depth: 2
+	/chrome/browser-features/#articles-for-you
+Broken Link, depth: 2
+	/chrome/browser-features/#extensions
+Broken Link, depth: 2
+	/chrome/tips/
+Broken Link, depth: 2
+	/webhp?tab=ww
+Broken Link, depth: 2
+	#
+Broken Link, depth: 2
+	#languages
+Broken Link, depth: 2
+	#advertise
+Broken Link, depth: 2
+	#scale-your-business
+Broken Link, depth: 2
+	#earn-money-from-ads
+Broken Link, depth: 2
+	#measure-learn
+Broken Link, depth: 2
+	#see-all-solutions
+Broken Link, depth: 2
+	#advertise
+Broken Link, depth: 2
+	#advertise
+Broken Link, depth: 2
+	/webhp?tab=ww
+Broken Link, depth: 2
+	#
+Broken Link, depth: 2
+	#languages
+Broken Link, depth: 2
+	/chrome/
+Broken Link, depth: 2
+	/chrome/
+Broken Link, depth: 2
+	/chrome/browser-tools/
+Broken Link, depth: 2
+	/chrome/browser-features/#
+Broken Link, depth: 2
+	/chrome/browser-features/#google-search-bar
+Broken Link, depth: 2
+	/chrome/browser-features/#password-check
+Broken Link, depth: 2
+	/chrome/browser-features/#sync
+Broken Link, depth: 2
+	/chrome/browser-features/#dark-mode
+Broken Link, depth: 2
+	/chrome/browser-features/#tabs
+Broken Link, depth: 2
+	/chrome/browser-features/#articles-for-you
+Broken Link, depth: 2
+	/chrome/browser-features/#extensions
+Broken Link, depth: 2
+	/chrome/tips/
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	/safesearch?hl=ar-IL&prev=https://www.google.com/preferences?hl%3Dar
+Broken Link, depth: 2
+	/history/optout?hl=ar-IL
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	/safesearch?hl=en-IL&prev=https://www.google.com/preferences?hl%3Den
+Broken Link, depth: 2
+	/chrome/update/
+Broken Link, depth: 2
+	/chrome/update/
+Broken Link, depth: 2
+	/chrome/update/
+Broken Link, depth: 2
+	/history/optout?hl=en-IL
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	/chrome/update/
+Good Link, depth: 2
+	https://support.google.com/chrome/answer/6130773?hl=iw
+	למידע נוסף
+Good Link, depth: 2
+	https://support.google.com/accounts?hl=iw&p=account_iph
+	עזרה
+Good Link, depth: 2
+	https://accounts.google.com/TOS?loc=IL&hl=iw
+	תנאים
+Good Link, depth: 2
+	https://accounts.google.com/TOS?loc=IL&hl=iw&privacy=true
+	פרטיות
+Broken Link, depth: 2
+	/url?url=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiGvePmpLT5AhWUs6QKHW-4CvgQ8KwCCAM&usg=AOvVaw224wwERMk-ywp5-B4x-jXN
+Broken Link, depth: 2
+	/url?url=https://policies.google.com/privacy%3Fhl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiGvePmpLT5AhWUs6QKHW-4CvgQ8awCCAQ&usg=AOvVaw30Fo3zsW_-6EgnYU1vbKc0
+Broken Link, depth: 2
+	/url?url=https://policies.google.com/terms%3Fhl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiGvePmpLT5AhWUs6QKHW-4CvgQ8qwCCAU&usg=AOvVaw0wvBPeQOHw0dMNtbfNkxrS
+Good Link, depth: 2
+	https://www.google.co.il/intl/ar/about/products?tab=wh
+	
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?hl=ar&passive=true&continue=https://www.google.com/preferences%3Fhl%3Dar&ec=GAZAAQ
+	تسجيل الدخول
+Good Link, depth: 2
+	https://support.google.com/websearch?p=search_help&hl=ar-IL
+	مساعدة
+Good Link, depth: 2
+	https://support.google.com/websearch?p=ws_settings_signin&hl=ar-IL
+	مزيد من المعلومات
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?continue=https://www.google.com/preferences%3Fhl%3Dar&hl=ar
+	تسجيل الدخول
+Broken Link, depth: 2
+	/webhp?hl=iw&tab=ii
+Broken Link, depth: 2
+	/advanced_image_search?hl=iw&authuser=0
+Broken Link, depth: 2
+	/intl/iw/ads/
+Broken Link, depth: 2
+	/chrome/update/
+Broken Link, depth: 2
+	/intl/iw/about.html
+Broken Link, depth: 2
+	/intl/iw/policies/privacy/
+Broken Link, depth: 2
+	/intl/iw/policies/terms/
+Good Link, depth: 2
+	https://www.google.co.il/intl/iw/about/products?tab=ih
+	
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.co.il/imghp%3Fhl%3Diw%26tab%3Dwi%26ogbl&ec=GAZAAg
+	כניסה
+Good Link, depth: 2
+	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
+	להתקנה
+Good Link, depth: 2
+	http://www.google.co.il/intl/iw/services/
+	פתרונות עסקיים
+Good Link, depth: 2
+	https://support.google.com/chrome/answer/6130773?hl=iw
+	למידע נוסף
+Good Link, depth: 2
+	https://support.google.com/accounts?hl=iw&p=account_iph
+	עזרה
+Good Link, depth: 2
+	https://accounts.google.com/TOS?loc=IL&hl=iw&privacy=true
+	פרטיות
+Good Link, depth: 2
+	https://accounts.google.com/TOS?loc=IL&hl=iw
+	תנאים
+Broken Link, depth: 2
+	/url?url=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjO1o_npLT5AhX3wQIHHaidBAQQ8KwCCAM&usg=AOvVaw3OwVn2c5W9rBL8S4fxxC8b
+Broken Link, depth: 2
+	/url?url=https://policies.google.com/privacy%3Fhl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjO1o_npLT5AhX3wQIHHaidBAQQ8awCCAQ&usg=AOvVaw0MOXwl5kZWEm4bBXvmjBzZ
+Broken Link, depth: 2
+	/url?url=https://policies.google.com/terms%3Fhl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwjO1o_npLT5AhX3wQIHHaidBAQQ8qwCCAU&usg=AOvVaw2oDJD3-BnEsrsAoPGY8JUI
+Good Link, depth: 2
+	https://www.google.co.il/intl/en/about/products?tab=wh
+	
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/preferences%3Fhl%3Den&ec=GAZAAQ
+	Sign in
+Good Link, depth: 2
+	https://support.google.com/websearch?p=search_help&hl=en-IL
+	Help
+Good Link, depth: 2
+	https://support.google.com/websearch?p=ws_settings_voice&hl=en-IL
+	search by voice
+Good Link, depth: 2
+	https://support.google.com/websearch?p=ws_settings_signin&hl=en-IL
+	Learn more
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?continue=https://www.google.com/preferences%3Fhl%3Den&hl=en
+	Sign in
+Broken Link, depth: 2
+	#scale-your-business
+Broken Link, depth: 2
+	https://sustainability.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav
+Broken Link, depth: 2
+	../
+Broken Link, depth: 2
+	#
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/advanced_search?hl=iw&authuser=0
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	#all-products
+Broken Link, depth: 2
+	./../belonging/in-products/
+Broken Link, depth: 2
+	./../belonging/in-products/
+Broken Link, depth: 2
+	./../belonging/in-products
+Broken Link, depth: 2
+	./../belonging/in-products
+Broken Link, depth: 2
+	./../belonging/in-products
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/intl/iw/ads/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/intl/iw/about.html
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/intl/iw/policies/privacy/
+Broken Link, depth: 2
+	/intl/iw/policies/terms/
+Good Link, depth: 2
+	https://mail.google.com/mail/?tab=wm&ogbl
+	Gmail
+Good Link, depth: 2
+	https://www.google.co.il/imghp?hl=iw&tab=wi&ogbl
+	חיפוש תמונות
+Good Link, depth: 2
+	https://www.google.co.il/intl/iw/about/products?tab=wh
+	
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.co.il/&ec=GAZAAQ
+	כניסה
+Good Link, depth: 2
+	https://www.google.co.il/setprefs?sig=0_odSfLpeW5bpt9YklWDxXQ3nFHSQ%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwia-9LnpLT5AhUc57sIHXdgC1YQ2ZgBCAQ
+	العربية
+Good Link, depth: 2
+	http://www.google.co.il/intl/iw/services/
+	פתרונות עסקיים
+Good Link, depth: 2
+	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
+	להתקנה
+Good Link, depth: 2
+	https://www.google.co.il/setprefdomain?prefdom=US&sig=K_3awoix0DrWM0kO9S2JgOn_rBtUw%3D
+	Google.com
+Good Link, depth: 2
+	https://www.google.co.il/setprefs?sig=0_odSfLpeW5bpt9YklWDxXQ3nFHSQ%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwia-9LnpLT5AhUc57sIHXdgC1YQ2ZgBCAU
+	English
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	#earn-money-from-ads
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/browser-tools/
+Broken Link, depth: 2
+	/chrome/explore-privacy/
+Broken Link, depth: 2
+	/chrome/browser-features/
+Broken Link, depth: 2
+	/chrome/tips/
+Broken Link, depth: 2
+	/chrome/dev/
+Broken Link, depth: 2
+	/chrome/beta/
+Broken Link, depth: 2
+	/chrome/canary/
+Broken Link, depth: 2
+	#measure-learn
+Broken Link, depth: 2
+	#
+Broken Link, depth: 2
+	#see-all-solutions
