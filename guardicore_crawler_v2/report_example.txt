@@ -1,4 +1,4 @@
-This run took 181.06775397599995 seconds in depth of 2 of https://www.google.com/
+This run took 142.38189213400256 seconds on max_depth = 2 in google.com
 
 Good Link, depth: 0
 	https://www.google.com/
@@ -19,37 +19,37 @@ Good Link, depth: 1
 	https://mail.google.com/mail/?tab=wm&ogbl
 	Gmail
 Good Link, depth: 1
-	https://www.google.co.il/intl/iw/about/products?tab=wh
-	
-Good Link, depth: 1
 	https://www.google.co.il/imghp?hl=iw&tab=wi&ogbl
 	חיפוש תמונות
+Good Link, depth: 1
+	https://www.google.co.il/intl/iw/about/products?tab=wh
+	
 Good Link, depth: 1
 	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.com/&ec=GAZAAQ
 	כניסה
 Good Link, depth: 1
-	https://www.google.com/setprefs?sig=0_Wr50_iLP4SWmbpJnLVPuXWilNig%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwij9NeXsrT5AhVpgs4BHeMWBPQQ2ZgBCAQ
-	العربية
+	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
+	להתקנה
+Good Link, depth: 1
+	https://www.google.com/setprefs?sig=0_fSog57Ox15Mw3l7LldUKFu0BQVs%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwj2gqiKxrT5AhWGQcAKHSgQAxgQ2ZgBCAU
+	English
 Good Link, depth: 1
 	http://www.google.co.il/intl/iw/services/
 	פתרונות עסקיים
 Good Link, depth: 1
-	https://www.google.com/setprefs?sig=0_Wr50_iLP4SWmbpJnLVPuXWilNig%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwij9NeXsrT5AhVpgs4BHeMWBPQQ2ZgBCAU
-	English
-Good Link, depth: 1
-	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
-	להתקנה
+	https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=K_CCGJrIhLPKR0udxIDeBeeS4HYy4%3D
+	Google.co.il
 Broken Link, depth: 2
 	/webhp?tab=ww
 Good Link, depth: 1
-	https://www.google.com/setprefdomain?prefdom=IL&prev=https://www.google.co.il/&sig=K_Wv_zmulMQ59CnKKKZ5x90yMgmHg%3D
-	Google.co.il
+	https://www.google.com/setprefs?sig=0_fSog57Ox15Mw3l7LldUKFu0BQVs%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwj2gqiKxrT5AhWGQcAKHSgQAxgQ2ZgBCAQ
+	العربية
+Broken Link, depth: 2
+	../services/
 Broken Link, depth: 2
 	#page-content
 Broken Link, depth: 2
-	../
-Broken Link, depth: 2
-	/webhp?tab=ww
+	#advertise
 Broken Link, depth: 2
 	../
 Broken Link, depth: 2
@@ -57,37 +57,21 @@ Broken Link, depth: 2
 Broken Link, depth: 2
 	../commitments/
 Broken Link, depth: 2
-	../stories/
-Broken Link, depth: 2
-	../services/
-Broken Link, depth: 2
-	#advertise
-Broken Link, depth: 2
-	../
-Broken Link, depth: 2
 	#scale-your-business
 Broken Link, depth: 2
 	#earn-money-from-ads
-Broken Link, depth: 2
-	../belonging/
 Broken Link, depth: 2
 	#measure-learn
 Broken Link, depth: 2
 	#see-all-solutions
 Broken Link, depth: 2
-	#
+	../stories/
 Broken Link, depth: 2
 	/webhp?tab=ww
 Broken Link, depth: 2
-	#
+	../
 Broken Link, depth: 2
-	#languages
-Broken Link, depth: 2
-	/webhp?hl=iw&tab=ii
-Broken Link, depth: 2
-	/advanced_image_search?hl=iw&authuser=0
-Broken Link, depth: 2
-	/intl/iw/ads/
+	../belonging/
 Broken Link, depth: 2
 	/chrome/
 Broken Link, depth: 2
@@ -115,11 +99,19 @@ Broken Link, depth: 2
 Broken Link, depth: 2
 	/chrome/tips/
 Broken Link, depth: 2
+	#
+Broken Link, depth: 2
 	/webhp?tab=ww
 Broken Link, depth: 2
 	#
 Broken Link, depth: 2
 	#languages
+Broken Link, depth: 2
+	/webhp?hl=iw&tab=ii
+Broken Link, depth: 2
+	/advanced_image_search?hl=iw&authuser=0
+Broken Link, depth: 2
+	/intl/iw/ads/
 Broken Link, depth: 2
 	#advertise
 Broken Link, depth: 2
@@ -132,6 +124,36 @@ Broken Link, depth: 2
 	#see-all-solutions
 Broken Link, depth: 2
 	#advertise
+Broken Link, depth: 2
+	/intl/iw/about.html
+Broken Link, depth: 2
+	/intl/iw/policies/privacy/
+Broken Link, depth: 2
+	/intl/iw/policies/terms/
+Good Link, depth: 2
+	https://www.google.co.il/intl/iw/about/products?tab=ih
+	
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.co.il/imghp%3Fhl%3Diw%26tab%3Dwi%26ogbl&ec=GAZAAg
+	כניסה
+Good Link, depth: 2
+	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
+	להתקנה
+Good Link, depth: 2
+	http://www.google.co.il/intl/iw/services/
+	פתרונות עסקיים
+Broken Link, depth: 2
+	/webhp?tab=ww
+Broken Link, depth: 2
+	#
+Broken Link, depth: 2
+	#languages
+Broken Link, depth: 2
+	../
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	/safesearch?hl=en-IL&prev=https://www.google.com/preferences?hl%3Den
 Broken Link, depth: 2
 	/chrome/
 Broken Link, depth: 2
@@ -163,31 +185,19 @@ Broken Link, depth: 2
 Broken Link, depth: 2
 	None
 Broken Link, depth: 2
-	../
+	#
 Broken Link, depth: 2
-	/intl/iw/about.html
-Broken Link, depth: 2
-	/intl/iw/policies/privacy/
-Broken Link, depth: 2
-	/intl/iw/policies/terms/
-Good Link, depth: 2
-	https://www.google.co.il/intl/iw/about/products?tab=ih
-	
-Good Link, depth: 2
-	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.co.il/imghp%3Fhl%3Diw%26tab%3Dwi%26ogbl&ec=GAZAAg
-	כניסה
-Good Link, depth: 2
-	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
-	להתקנה
-Good Link, depth: 2
-	http://www.google.co.il/intl/iw/services/
-	פתרונות עסקיים
-Broken Link, depth: 2
-	/chrome/update/
+	/history/optout?hl=en-IL
 Broken Link, depth: 2
 	None
 Broken Link, depth: 2
-	/safesearch?hl=en-IL&prev=https://www.google.com/preferences?hl%3Den
+	/chrome/update/
+Broken Link, depth: 2
+	/advanced_search?hl=iw&authuser=0
+Broken Link, depth: 2
+	/chrome/update/
+Broken Link, depth: 2
+	#scale-your-business
 Good Link, depth: 2
 	https://support.google.com/chrome/answer/6130773?hl=iw
 	למידע נוסף
@@ -201,54 +211,14 @@ Good Link, depth: 2
 	https://accounts.google.com/TOS?loc=IL&hl=iw&privacy=true
 	פרטיות
 Broken Link, depth: 2
-	/chrome/update/
+	/url?url=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwinz8SMxrT5AhUOn6QKHaSKDxoQ8KwCCAM&usg=AOvVaw2Cc1CSlK0MwyfNGPVdZe4U
 Broken Link, depth: 2
-	/history/optout?hl=en-IL
+	/url?url=https://policies.google.com/privacy%3Fhl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwinz8SMxrT5AhUOn6QKHaSKDxoQ8awCCAQ&usg=AOvVaw2WVFYJHe5sfZ8VvaEHWCFF
 Broken Link, depth: 2
-	None
-Broken Link, depth: 2
-	/url?url=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwj3rs2ZsrT5AhXSlFwKHXuHAmkQ8KwCCAM&usg=AOvVaw0Zap1CqYf_yTYaGhwLtK06
-Broken Link, depth: 2
-	/url?url=https://policies.google.com/privacy%3Fhl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwj3rs2ZsrT5AhXSlFwKHXuHAmkQ8awCCAQ&usg=AOvVaw2NJI0l6aJdxoblwXBLNSRq
-Broken Link, depth: 2
-	/url?url=https://policies.google.com/terms%3Fhl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwj3rs2ZsrT5AhXSlFwKHXuHAmkQ8qwCCAU&usg=AOvVaw3fnLvmRlFxKlS8R5Zi5V-_
-Good Link, depth: 2
-	https://www.google.co.il/intl/ar/about/products?tab=wh
-	
-Good Link, depth: 2
-	https://accounts.google.com/ServiceLogin?hl=ar&passive=true&continue=https://www.google.com/preferences%3Fhl%3Dar&ec=GAZAAQ
-	تسجيل الدخول
-Good Link, depth: 2
-	https://support.google.com/websearch?p=search_help&hl=ar-IL
-	مساعدة
-Good Link, depth: 2
-	https://accounts.google.com/ServiceLogin?continue=https://www.google.com/preferences%3Fhl%3Dar&hl=ar
-	تسجيل الدخول
-Good Link, depth: 2
-	https://support.google.com/websearch?p=ws_settings_signin&hl=ar-IL
-	مزيد من المعلومات
-Broken Link, depth: 2
-	/chrome/update/
-Broken Link, depth: 2
-	#
-Broken Link, depth: 2
-	#scale-your-business
-Broken Link, depth: 2
-	None
-Broken Link, depth: 2
-	/advanced_search?hl=iw&authuser=0
-Broken Link, depth: 2
-	/url?url=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiMm-2ZsrT5AhWGN8AKHa8qAacQ8KwCCAM&usg=AOvVaw3CkC6CvbT3PtFTcwlxjQl3
-Broken Link, depth: 2
-	/url?url=https://policies.google.com/privacy%3Fhl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiMm-2ZsrT5AhWGN8AKHa8qAacQ8awCCAQ&usg=AOvVaw1R6UHVVGuN238-NNcfX_IV
-Broken Link, depth: 2
-	/url?url=https://policies.google.com/terms%3Fhl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiMm-2ZsrT5AhWGN8AKHa8qAacQ8qwCCAU&usg=AOvVaw0-wc0hkghhU17igxp8HDrI
+	/url?url=https://policies.google.com/terms%3Fhl%3Den-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwinz8SMxrT5AhUOn6QKHaSKDxoQ8qwCCAU&usg=AOvVaw3l4x-JfsTZUI_b5_LrDtNX
 Good Link, depth: 2
 	https://www.google.co.il/intl/en/about/products?tab=wh
 	
-Good Link, depth: 2
-	https://support.google.com/websearch?p=search_help&hl=en-IL
-	Help
 Good Link, depth: 2
 	https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/preferences%3Fhl%3Den&ec=GAZAAQ
 	Sign in
@@ -256,19 +226,61 @@ Good Link, depth: 2
 	https://support.google.com/websearch?p=ws_settings_voice&hl=en-IL
 	search by voice
 Good Link, depth: 2
+	https://support.google.com/websearch?p=search_help&hl=en-IL
+	Help
+Good Link, depth: 2
 	https://support.google.com/websearch?p=ws_settings_signin&hl=en-IL
 	Learn more
 Good Link, depth: 2
 	https://accounts.google.com/ServiceLogin?continue=https://www.google.com/preferences%3Fhl%3Den&hl=en
 	Sign in
 Broken Link, depth: 2
+	/url?url=https://support.google.com/websearch/%3Fp%3Dws_results_help%26hl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiGg56MxrT5AhXDjqQKHW--CYEQ8KwCCAM&usg=AOvVaw17PZKi61DpEBR1S0iSXLDn
+Broken Link, depth: 2
+	/url?url=https://policies.google.com/privacy%3Fhl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiGg56MxrT5AhXDjqQKHW--CYEQ8awCCAQ&usg=AOvVaw2tvtGdgUo4J57G1OLzkEMD
+Broken Link, depth: 2
+	None
+Broken Link, depth: 2
+	/url?url=https://policies.google.com/terms%3Fhl%3Dar-IL%26fg%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiGg56MxrT5AhXDjqQKHW--CYEQ8qwCCAU&usg=AOvVaw2I-4cg3L52u8T3Auj5TAar
+Good Link, depth: 2
+	https://www.google.co.il/intl/ar/about/products?tab=wh
+	
+Broken Link, depth: 2
+	None
+Good Link, depth: 2
+	https://support.google.com/websearch?p=ws_settings_signin&hl=ar-IL
+	مزيد من المعلومات
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?continue=https://www.google.com/preferences%3Fhl%3Dar&hl=ar
+	تسجيل الدخول
+Good Link, depth: 2
+	https://accounts.google.com/ServiceLogin?hl=ar&passive=true&continue=https://www.google.com/preferences%3Fhl%3Dar&ec=GAZAAQ
+	تسجيل الدخول
+Good Link, depth: 2
+	https://support.google.com/websearch?p=search_help&hl=ar-IL
+	مساعدة
+Broken Link, depth: 2
+	/chrome/update/
+Good Link, depth: 2
+	https://support.google.com/chrome/answer/6130773?hl=iw
+	למידע נוסף
+Good Link, depth: 2
+	https://support.google.com/accounts?hl=iw&p=account_iph
+	עזרה
+Good Link, depth: 2
+	https://accounts.google.com/TOS?loc=IL&hl=iw
+	תנאים
+Good Link, depth: 2
+	https://accounts.google.com/TOS?loc=IL&hl=iw&privacy=true
+	פרטיות
+Broken Link, depth: 2
+	/intl/iw/ads/
+Broken Link, depth: 2
 	#all-products
 Broken Link, depth: 2
 	./../belonging/in-products/
 Broken Link, depth: 2
 	./../belonging/in-products
-Broken Link, depth: 2
-	/intl/iw/ads/
 Broken Link, depth: 2
 	/intl/iw/about.html
 Broken Link, depth: 2
@@ -285,37 +297,25 @@ Good Link, depth: 2
 	https://www.google.co.il/intl/iw/about/products?tab=wh
 	
 Good Link, depth: 2
-	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
-	להתקנה
-Good Link, depth: 2
 	https://accounts.google.com/ServiceLogin?hl=iw&passive=true&continue=https://www.google.co.il/&ec=GAZAAQ
 	כניסה
 Good Link, depth: 2
-	https://www.google.co.il/setprefs?sig=0_hRw7TtqmKtu0ElSs7ssiVI7o5B8%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwiE-rKasrT5AhVnW_EDHTBKDPYQ2ZgBCAU
-	English
+	https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AOvVaw2A5kGRp94hCALOfNEMcrQA
+	להתקנה
+Good Link, depth: 2
+	https://www.google.co.il/setprefs?sig=0_wSJjsaV3LeCD4mPbNO_Xnr3Ij8g%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwjw4YeNxrT5AhXZi1wKHSztC48Q2ZgBCAQ
+	العربية
 Good Link, depth: 2
 	http://www.google.co.il/intl/iw/services/
 	פתרונות עסקיים
 Good Link, depth: 2
-	https://www.google.co.il/setprefs?sig=0_hRw7TtqmKtu0ElSs7ssiVI7o5B8%3D&hl=ar&source=homepage&sa=X&ved=0ahUKEwiE-rKasrT5AhVnW_EDHTBKDPYQ2ZgBCAQ
-	العربية
+	https://www.google.co.il/setprefs?sig=0_wSJjsaV3LeCD4mPbNO_Xnr3Ij8g%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjw4YeNxrT5AhXZi1wKHSztC48Q2ZgBCAU
+	English
 Good Link, depth: 2
-	https://www.google.co.il/setprefdomain?prefdom=US&sig=K_s6sSxwmvkbmWQWGSZUM1gNAebwE%3D
+	https://www.google.co.il/setprefdomain?prefdom=US&sig=K_6SSoUJYfwdDmv7sQt4Ptuntiges%3D
 	Google.com
 Broken Link, depth: 2
-	/chrome/terms/
-Broken Link, depth: 2
-	/chrome/terms/
-Broken Link, depth: 2
-	/chrome/terms/
-Broken Link, depth: 2
-	/chrome/terms/
-Broken Link, depth: 2
 	#earn-money-from-ads
-Broken Link, depth: 2
-	/chrome/terms/
-Broken Link, depth: 2
-	/chrome/terms/
 Broken Link, depth: 2
 	/chrome/terms/
 Broken Link, depth: 2
@@ -338,6 +338,20 @@ Broken Link, depth: 2
 	/chrome/terms/
 Broken Link, depth: 2
 	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	/chrome/terms/
+Broken Link, depth: 2
+	https://enterprise.google.com/chrome/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
 Broken Link, depth: 2
 	/chrome/terms/
 Broken Link, depth: 2
@@ -359,8 +373,6 @@ Broken Link, depth: 2
 Broken Link, depth: 2
 	#
 Broken Link, depth: 2
-	https://enterprise.google.com/chrome/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
-Broken Link, depth: 2
 	#hero
 Broken Link, depth: 2
 	#advertise
@@ -372,16 +384,6 @@ Broken Link, depth: 2
 	#measure-learn
 Broken Link, depth: 2
 	#see-all-solutions
-Broken Link, depth: 2
-	/chrome/beta/
-Broken Link, depth: 2
-	/chrome/dev/
-Broken Link, depth: 2
-	/chrome/canary/
-Broken Link, depth: 2
-	/chrome/update/
-Broken Link, depth: 2
-	/chrome/tips/
 Broken Link, depth: 2
 	//www.google.co.il
 Broken Link, depth: 2
@@ -399,6 +401,8 @@ Good Link, depth: 2
 Good Link, depth: 2
 	https://www.youtube.com/watch?v=LDKYXDZdFU4
 	
+                    
+                     
 Good Link, depth: 2
 	https://www.google.co.il/intl/iw/adwords/?sourceid=awo&subid=il-ww-et-bizsol
 	
@@ -407,17 +411,6 @@ Good Link, depth: 2
               
               
                 ×××¤×©×¨ ××× ××¤×¨×¡× ×-Google ××¨××¢ ×©×× ×©×× ×××¤×©×× ××ª ×× ×©××ª× ××¦××¢××.
-              
-              
-               
-Good Link, depth: 2
-	https://ads.google.com/intl/iw_il/home/how-it-works/app-ads/?subid=il-ww-et-g-aw-a-uac_adsol
-	
-              
-                ×§××¤××× ×× ××× ×××¨×¡×××× ×××¤×××§×¦×××ª
-              
-              
-                ××¢××¨×ª ××××× ×××©××××ª ××¤×©×¨ ××§×× ××ª ×××¤×××§×¦×× ×©××× ××§×¨× ××©×ª××©×× ×-Google.
               
               
                
@@ -462,51 +455,39 @@ Good Link, depth: 2
               
                
 Good Link, depth: 2
-	https://www.youtube.com/watch?v=taqggFQaJtE
-	
-Good Link, depth: 2
-	https://www.google.co.il/intl/iw/adsense/start/?subid=WW-EN-ET-bizsol-othersol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-other-sol
-	AdSense
-Good Link, depth: 2
-	https://admob.google.com/home/?subid=ww-ww-et-bizsol&_adc=eww-ww-et-bizsol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-in-page-txt
+	https://ads.google.com/intl/iw_il/home/how-it-works/app-ads/?subid=il-ww-et-g-aw-a-uac_adsol
 	
               
-                AdMob
+                ×§××¤××× ×× ××× ×××¨×¡×××× ×××¤×××§×¦×××ª
               
               
-                × ××ª×× × ×ª×× ××, ××× ××××¦×× ××§×××× ×©× ×××¤×××§×¦×××ª ×©××× - ×××× ××¤×××¤××¨×× ×××ª.
+                ××¢××¨×ª ××××× ×××©××××ª ××¤×©×¨ ××§×× ××ª ×××¤×××§×¦×× ×©××× ××§×¨× ××©×ª××©×× ×-Google.
               
               
                
 Good Link, depth: 2
-	https://www.google.co.il/intl/iw/analytics/features/mobile-app-analytics.html?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions
+	https://workspace.google.com/signup/basic/welcome/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=tryitfree
+	   
+              
+                Google Workspace
+              
+              
+                × ××ª× ××§×× ××ª×××ª ×××××× ×××ª×××ª ×××©××ª ×-Gmail (×××©× joe@yourcompany) ×××¢××× ×××
+                ××¦×××ª. ××© ×× × ×× ×××× ××× Docsâ, Drive ××××× Google ×©××¢××¨× ××× ××©×¤×¨ ××ª
+                ××¤×¨××××§××××××ª.
+              
+              
+Good Link, depth: 2
+	https://www.google.co.il/intl/iw/adsense/start/?subid=WW-EN-ET-bizsol-inpage&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-in-page-txt
 	
               
-                Analytics ×××¤×××§×¦×××ª ×× ×××
+                AdSense
               
               
-                ×××××ª ×¢×¨× ×××¤×××§×¦×× ×©××× - ××§×¦× ××§×¦×
+                ××ª× ×××××× ×××¨×××× ××¡×£ ×××¦××ª ××××¢××ª ×××ª×¨ ×©××× - ××§×××ª ××××× ×.
               
               
                
-Good Link, depth: 2
-	https://ads.google.com/intl/iw/home/?subid=il-ww-et-bizsol
-	Google Ads
-Good Link, depth: 2
-	https://workspace.google.co.il/intl/iw/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=explore
-	Google Workspace
-Good Link, depth: 2
-	https://www.google.co.il/intl/iw/chrome/business/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=explore
-	Chrome
-Good Link, depth: 2
-	https://www.android.com/enterprise/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
-	Android Enterprise
-Good Link, depth: 2
-	https://hire.google.com/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
-	××××¡ ×¢×××××
-Good Link, depth: 2
-	https://admob.google.com/home/?subid=ww-ww-et-bizsol&_adc=eww-ww-et-bizsol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-other-sol
-	AdMob
 Good Link, depth: 2
 	https://www.google.co.il/intl/iw/analytics/?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions
 	
@@ -519,11 +500,65 @@ Good Link, depth: 2
               
                
 Good Link, depth: 2
-	https://workspace.google.com/signup/basic/welcome/?utm_source=bizsol_worksmarter&utm_medium=et&utm_campaign=tryitfree
-	×× ××¡××× ××× ×
+	https://ads.google.com/intl/iw/home/?subid=il-ww-et-bizsol
+	Google Ads
 Good Link, depth: 2
-	https://www.google.co.il/intl/iw/analytics/tag-manager/?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=ExploreSolutions
-	×× ×× ××ª×××
+	https://www.youtube.com/watch?v=taqggFQaJtE
+	
+Good Link, depth: 2
+	https://www.google.co.il/intl/iw/chrome/business/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=explore
+	Chrome
+Good Link, depth: 2
+	https://www.android.com/enterprise/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
+	Android Enterprise
+Good Link, depth: 2
+	https://hire.google.com/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
+	××××¡ ×¢×××××
+Good Link, depth: 2
+	https://admanager.google.com/home/
+	Google Ad Manager 360
+Good Link, depth: 2
+	https://www.google.co.il/intl/iw/analytics/features/mobile-app-analytics.html?utm_source=Internal&utm_campaign=InPage&utm_medium=BusinessSolutions
+	Analytics ×××¤×××§×¦×××ª ×× ×××
+Good Link, depth: 2
+	https://blog.google/products/ads/
+	
+                
+                 
+Good Link, depth: 2
+	https://support.google.com/?hl=iw
+	××¨×× ××¢××¨×
+Good Link, depth: 2
+	https://developers.google.com/?hl=iw
+	××ª×¨ Google Developers
+Good Link, depth: 2
+	https://www.google.co.il/intl/iw/services/sitemap.html?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=trustedstores
+	
+              ××× ××§×¡ ××¤×ª×¨×× ××ª ××¢×¡×§×××
+Good Link, depth: 2
+	https://workspace.google.co.il/intl/iw/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=footer
+	
+              Google Workspace
+Good Link, depth: 2
+	https://cloud.google.com/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
+	Google Cloud Platform
+Good Link, depth: 2
+	https://domains.google/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
+	Google Domains
+Good Link, depth: 2
+	https://admob.google.com/home/?subid=ww-ww-et-bizsol&_adc=eww-ww-et-bizsol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-other-sol
+	AdMob
+Good Link, depth: 2
+	https://admob.google.com/home/?subid=ww-ww-et-bizsol&_adc=eww-ww-et-bizsol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-in-page-txt
+	
+              
+                AdMob
+              
+              
+                × ××ª×× × ×ª×× ××, ××× ××××¦×× ××§×××× ×©× ×××¤×××§×¦×××ª ×©××× - ×××× ××¤×××¤××¨×× ×××ª.
+              
+              
+               
 Good Link, depth: 2
 	https://twitter.com/googleads
 	
@@ -542,61 +577,41 @@ Good Link, depth: 2
               
                
 Good Link, depth: 2
-	https://support.google.com/?hl=iw
-	××¨×× ××¢××¨×
+	https://workspace.google.co.il/intl/iw/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=explore
+	Google Workspace
 Good Link, depth: 2
-	https://cloud.google.com/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
-	Google Cloud Platform
-Good Link, depth: 2
-	https://domains.google/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=seeallsolutions
-	Google Domains
-Good Link, depth: 2
-	https://www.google.co.il/intl/iw/adsense/start/?subid=WW-EN-ET-bizsol-inpage&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-in-page-txt
+	https://cloud.google.com/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=footer
 	
-              
-                AdSense
-              
-              
-                ××ª× ×××××× ×××¨×××× ××¡×£ ×××¦××ª ××××¢××ª ×××ª×¨ ×©××× - ××§×××ª ××××× ×.
-              
-              
-               
+              Google Cloud
 Good Link, depth: 2
-	https://www.youtube.com/googleads
-	
-                
-                 
-Good Link, depth: 2
-	https://admanager.google.com/home/
-	Google Ad Manager 360
-Good Link, depth: 2
-	https://developers.google.com/?hl=iw
-	××ª×¨ Google Developers
+	https://www.google.co.il/intl/iw/analytics/tag-manager/?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=ExploreSolutions
+	×× ×× ××ª×××
 Good Link, depth: 2
 	https://www.google.co.il/intl/iw/streetview/hire/
 	Google Maps Business
               View
 Good Link, depth: 2
-	https://workspace.google.co.il/intl/iw/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=footer
-	
-              Google Workspace
-Good Link, depth: 2
-	https://www.google.co.il/intl/iw/services/sitemap.html?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=trustedstores
-	
-              ××× ××§×¡ ××¤×ª×¨×× ××ª ××¢×¡×§×××
-Good Link, depth: 2
-	https://blog.google/products/ads/
-	
-                
-                 
+	https://www.google.co.il/intl/iw/adsense/start/?subid=WW-EN-ET-bizsol-othersol&utm_source=Internal&utm_medium=ET&utm_campaign=business-sol-other-sol
+	AdSense
 Good Link, depth: 2
 	https://www.google.co.il/intl/iw/analytics/?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=Footer
 	
               ××£ ××××ª ×©× Google Analytics
 Good Link, depth: 2
-	https://cloud.google.com/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=footer
+	https://www.youtube.com/googleads
 	
-              Google Cloud
+                
+                 
+Broken Link, depth: 2
+	/chrome/beta/
+Broken Link, depth: 2
+	/chrome/dev/
+Broken Link, depth: 2
+	/chrome/canary/
+Broken Link, depth: 2
+	/chrome/update/
+Broken Link, depth: 2
+	/chrome/tips/
 Broken Link, depth: 2
 	/chrome/privacy/
 Broken Link, depth: 2
@@ -669,36 +684,28 @@ Good Link, depth: 2
             
             
 Good Link, depth: 2
-	https://www.facebook.com/googlechrome/
-	
-          
-            Facebook
-            
-            
-            
-Good Link, depth: 2
-	https://www.google.com/chromecast/
-	Chromecast
-          
-            
-            
-Good Link, depth: 2
 	https://www.google.com/intl/en_US/chromebook/
 	Chromebooks
           
             
             
 Good Link, depth: 2
-	https://cloud.google.com/?hl=en
-	Google 
-        Cloud
+	https://www.google.com/chrome/cleanup-tool/?hl=en
+	Chrome Cleanup 
+        Tool
           
             
             
 Good Link, depth: 2
-	https://chromeenterprise.google/intl/en_US/devices/
-	Chrome 
-        Devices
+	https://chromeenterprise.google/intl/en_US/browser/download/
+	Download Chrome 
+        Browser
+          
+            
+            
+Good Link, depth: 2
+	https://www.google.com/chromecast/
+	Chromecast
           
             
             
@@ -710,8 +717,16 @@ Good Link, depth: 2
             
             
 Good Link, depth: 2
-	https://chromeenterprise.google/intl/en_US/browser/download/
-	Download Chrome 
+	https://www.facebook.com/googlechrome/
+	
+          
+            Facebook
+            
+            
+            
+Good Link, depth: 2
+	https://edu.google.com/intl/en_US/products/more-products/
+	Google Chrome 
         Browser
           
             
@@ -724,26 +739,38 @@ Good Link, depth: 2
             
             
 Good Link, depth: 2
-	https://www.google.com/chrome/cleanup-tool/?hl=en
-	Chrome Cleanup 
-        Tool
+	https://www.chromium.org/
+	Chromium
           
             
             
 Good Link, depth: 2
-	https://gsuite.google.com/?hl=en
-	Google 
-        Workspace
+	https://chromeenterprise.google/intl/en_US/devices/
+	Chrome 
+        Devices
           
             
             
 Good Link, depth: 2
-	https://edu.google.com/intl/en_US/products/more-products/
-	Google Chrome 
-        Browser
+	https://developer.chrome.com/webstore/?hl=en
+	Chrome Web 
+        Store
           
             
             
+Good Link, depth: 2
+	https://support.google.com/chrome/?hl=en&rd=3#topic=7438008
+	Chrome 
+        Help
+          
+            
+            
+Good Link, depth: 2
+	https://about.google/
+	About Google
+Good Link, depth: 2
+	https://about.google/products/
+	Google Products
 Good Link, depth: 2
 	https://edu.google.com/intl/en_US/products/devices
 	Devices
@@ -758,8 +785,33 @@ Good Link, depth: 2
             
             
 Good Link, depth: 2
-	https://www.chromium.org/
-	Chromium
+	https://blog.google/products/chrome/
+	Google Chrome 
+        Blog
+          
+            
+            
+Good Link, depth: 2
+	https://cloud.google.com/?hl=en
+	Google 
+        Cloud
+          
+            
+            
+Good Link, depth: 2
+	https://gsuite.google.com/?hl=en
+	Google 
+        Workspace
+          
+            
+            
+Good Link, depth: 2
+	https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/linux/chromium_packages.md
+	here
+Good Link, depth: 2
+	https://www.chromeexperiments.com/
+	Chrome 
+        Experiments
           
             
             
@@ -771,40 +823,6 @@ Good Link, depth: 2
             
             
 Good Link, depth: 2
-	https://developer.chrome.com/webstore/?hl=en
-	Chrome Web 
-        Store
-          
-            
-            
-Good Link, depth: 2
-	https://blog.google/products/chrome/
-	Google Chrome 
-        Blog
-          
-            
-            
-Good Link, depth: 2
-	https://www.chromeexperiments.com/
-	Chrome 
-        Experiments
-          
-            
-            
-Good Link, depth: 2
-	https://about.google/
-	About Google
-Good Link, depth: 2
-	https://about.google/products/
-	Google Products
-Good Link, depth: 2
-	https://support.google.com/chrome/?hl=en&rd=3#topic=7438008
-	Chrome 
-        Help
-          
-            
-            
-Good Link, depth: 2
 	https://www.google.com
 	
           
@@ -812,11 +830,6 @@ Good Link, depth: 2
             
             
             
-Good Link, depth: 2
-	https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/linux/chromium_packages.md
-	here
-Broken Link, depth: 2
-	https://duo.google.com/about/
 Broken Link, depth: 2
 	https://stadia.google.com/
 Broken Link, depth: 2
@@ -852,10 +865,17 @@ Good Link, depth: 2
                       Keeping billions of people safe online
                   
 Good Link, depth: 2
-	https://blog.google/outreach-initiatives/grow-with-google/interview-warmup/
+	https://crisisresponse.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav
 	
-          Learn more
-        
+                    Crisis Response
+                      Helping people with information in critical moments
+                  
+Good Link, depth: 2
+	https://sustainability.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav
+	
+                    Sustainability
+                      Committed to being carbon free by 2030
+                  
 Good Link, depth: 2
 	https://support.google.com/
 	
@@ -868,15 +888,20 @@ Good Link, depth: 2
       
   
 Good Link, depth: 2
-	https://store.google.com/
+	https://support.google.com/accessibility/answer/7641084?hl=en&ref_topic=9071908
 	
     
       
         
       
       
-        Shop Google Store
+        Get disability support
       
+  
+Good Link, depth: 2
+	https://www.blog.google/products/
+	
+    Read all product news
   
 Good Link, depth: 2
 	https://safety.google/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage
@@ -896,6 +921,26 @@ Good Link, depth: 2
         
         
           Every day Google secures 1.5 billion inboxes, keeping your emails private to you.
+        
+      
+        
+          Learn more
+        
+    
+  
+Good Link, depth: 2
+	https://safety.google/products/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage#chrome
+	
+    
+        
+          
+        
+      
+        
+          The safer way to browse
+        
+        
+          Every day Google protects 4 billion devices, alerting you if a site seems risky.
         
       
         
@@ -929,14 +974,16 @@ Good Link, depth: 2
           Read more
         
 Good Link, depth: 2
-	https://store.google.com/product/chromecast
+	https://store.google.com/
 	
     
-    
       
-    
-    Chromecast
-    
+        
+      
+      
+        Shop Google Store
+      
+  
 Good Link, depth: 2
 	https://grow.google/certificates/interview-warmup/?utm_source=gDigital&utm_medium=empro-aboutsite&utm_campaign=aboutpage&utm_content=aboutgoogle
 	
@@ -953,22 +1000,10 @@ Practice answering interview questions to get more confident and comfortable wit
         
   
 Good Link, depth: 2
-	https://crisisresponse.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav
+	https://blog.google/outreach-initiatives/grow-with-google/interview-warmup/
 	
-                    Crisis Response
-                      Helping people with information in critical moments
-                  
-Good Link, depth: 2
-	https://sustainability.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav
-	
-                    Sustainability
-                      Committed to being carbon free by 2030
-                  
-Good Link, depth: 2
-	https://www.blog.google/products/
-	
-    Read all product news
-  
+          Learn more
+        
 Good Link, depth: 2
 	https://www.android.com/intl/en_us/
 	
@@ -979,22 +1014,13 @@ Good Link, depth: 2
     Android OS
     
 Good Link, depth: 2
-	https://www.android.com/tv/
+	https://www.google.com/calendar/about/
 	
     
     
       
     
-    Android TV
-    
-Good Link, depth: 2
-	https://www.google.com/get/cardboard/
-	
-    
-    
-      
-    
-    Cardboard
+    Calendar
     
 Good Link, depth: 2
 	https://www.google.com/chrome/
@@ -1011,110 +1037,13 @@ Good Link, depth: 2
     Visit Grow with Google
   
 Good Link, depth: 2
-	https://safety.google/products/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage#chrome
-	
-    
-        
-          
-        
-      
-        
-          The safer way to browse
-        
-        
-          Every day Google protects 4 billion devices, alerting you if a site seems risky.
-        
-      
-        
-          Learn more
-        
-    
-  
-Good Link, depth: 2
-	https://grow.google/applied-digital-skills/?utm_source=gDigital&utm_medium=empro-aboutsite&utm_campaign=aboutpage&utm_content=aboutgoogle
-	
-    
-      
-        
-      
-      
-        Applied Digital Skills
-Explore our video-based curriculums that prepare students of all ages for jobs requiring basic digital skills.      
-          
-            Learn more
-          
-        
-  
-Good Link, depth: 2
-	https://www.android.com/intl/en_us/auto/
+	https://store.google.com/product/chromecast
 	
     
     
       
     
-    Android Auto
-    
-Good Link, depth: 2
-	https://www.google.com/calendar/about/
-	
-    
-    
-      
-    
-    Calendar
-    
-Good Link, depth: 2
-	https://www.google.com/chromebook/
-	
-    
-    
-      
-    
-    Chromebook
-    
-Good Link, depth: 2
-	https://support.google.com/accessibility/answer/7641084?hl=en&ref_topic=9071908
-	
-    
-      
-        
-      
-      
-        Get disability support
-      
-  
-Good Link, depth: 2
-	https://grow.google/certificates/?utm_source=gDigital&utm_medium=empro-aboutsite&utm_campaign=aboutpage&utm_content=aboutgoogle
-	
-    
-      
-        
-      
-      
-        Google Career Certificates
-Discover  flexible online training programs designed to fast track you to jobs in high-growth fields.      
-          
-            Learn more
-          
-        
-  
-Good Link, depth: 2
-	https://chrome.google.com/webstore/category/apps
-	
-    
-    
-      
-    
-    Chrome Enterprise
-    
-Good Link, depth: 2
-	https://store.google.com/category/connected_home
-	
-    
-    
-      
-    
-    Connected Home
+    Chromecast
     
 Good Link, depth: 2
 	https://play.google.com/store/apps/details?id=com.google.android.contacts#_ga=2.64729958.83130407.1517253748-1400634622.1515717381
@@ -1144,49 +1073,46 @@ Good Link, depth: 2
     Drive
     
 Good Link, depth: 2
-	https://www.google.com/covid19/exposurenotifications/
+	https://grow.google/applied-digital-skills/?utm_source=gDigital&utm_medium=empro-aboutsite&utm_campaign=aboutpage&utm_content=aboutgoogle
+	
+    
+      
+        
+      
+      
+        Applied Digital Skills
+Explore our video-based curriculums that prepare students of all ages for jobs requiring basic digital skills.      
+          
+            Learn more
+          
+        
+  
+Good Link, depth: 2
+	https://www.google.com/finance
 	
     
     
       
     
-    Exposure Notifications
+    Finance
     
 Good Link, depth: 2
-	https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout
+	https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin
 	
     
     
       
     
-    Forms
+    Gboard
     
 Good Link, depth: 2
-	https://www.google.com/android/find
+	https://www.gmail.com/intl/en_us/mail/help/about.html
 	
     
     
       
     
-    Google Find My Device
-    
-Good Link, depth: 2
-	https://www.google.com/earth/
-	
-    
-    
-      
-    
-    Earth
-    
-Good Link, depth: 2
-	https://www.google.com/alerts
-	
-    
-    
-      
-    
-    Google Alerts
+    Gmail
     
 Good Link, depth: 2
 	https://artsandculture.google.com/?utm_medium=referral&utm_source=about.google
@@ -1198,13 +1124,22 @@ Good Link, depth: 2
     Google Arts & Culture
     
 Good Link, depth: 2
-	https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+	https://assistant.google.com/business/
 	
     
     
       
     
-    Google Authenticator
+    Google Assistant
+    
+Good Link, depth: 2
+	https://gsuite.google.com/products/chat/
+	
+    
+    
+      
+    
+    Google Chat
     
 Good Link, depth: 2
 	https://edu.google.com/products/classroom/?modal_active=none#%2Fready-to-go
@@ -1214,6 +1149,15 @@ Good Link, depth: 2
       
     
     Google Classroom
+    
+Good Link, depth: 2
+	https://www.google.co.in/edu/expeditions/
+	
+    
+    
+      
+    
+    Google Expeditions
     
 Good Link, depth: 2
 	https://families.google.com/familylink/
@@ -1234,22 +1178,22 @@ Good Link, depth: 2
     Google Files
     
 Good Link, depth: 2
-	https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin
+	https://www.google.com/android/find
 	
     
     
       
     
-    Gboard
+    Google Find My Device
     
 Good Link, depth: 2
-	https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en
+	https://store.google.com/category/connected_home
 	
     
     
       
     
-    Google Fit
+    Connected Home
     
 Good Link, depth: 2
 	https://www.google.com/fonts
@@ -1261,15 +1205,6 @@ Good Link, depth: 2
     Google Fonts
     
 Good Link, depth: 2
-	https://health.google/for-everyone/health-studies?utm_source=about_google&utm_medium=web&utm_content=products
-	
-    
-    
-      
-    
-    Google Health Studies
-    
-Good Link, depth: 2
 	https://groups.google.com
 	
     
@@ -1279,49 +1214,58 @@ Good Link, depth: 2
     Google Groups
     
 Good Link, depth: 2
-	https://www.google.com/inputtools/
+	https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app&hl=en_US
 	
     
     
       
     
-    Google Input Tools
+    Google Home App
     
 Good Link, depth: 2
-	https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=en_US
+	https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout
 	
     
     
       
     
-    Google Tasks
+    Docs
     
 Good Link, depth: 2
-	https://pay.google.com/about/
+	https://gsuite.google.com/products/meet/
 	
     
     
       
     
-    Google Pay
+    Google Meet
     
 Good Link, depth: 2
-	https://lens.google.com/#
+	https://one.google.com
 	
     
     
       
     
-    Google Lens
+    Google One
     
 Good Link, depth: 2
-	https://fi.google.com/about/
+	https://www.google.com/covid19/exposurenotifications/
 	
     
     
       
     
-    Google Fi
+    Exposure Notifications
+    
+Good Link, depth: 2
+	https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout
+	
+    
+    
+      
+    
+    Forms
     
 Good Link, depth: 2
 	https://play.google.com/store/apps/details?id=com.google.android.apps.books&e=-EnableAppDetailsPageRedesign
@@ -1333,31 +1277,31 @@ Good Link, depth: 2
     Google Play Books
     
 Good Link, depth: 2
-	https://www.google.com/travel/
+	https://www.android.com/intl/en_us/auto/
 	
     
     
       
     
-    Travel
+    Android Auto
     
 Good Link, depth: 2
-	https://www.gmail.com/intl/en_us/mail/help/about.html
+	https://www.android.com/play-protect/
 	
     
     
       
     
-    Gmail
+    Google Play Protect
     
 Good Link, depth: 2
-	https://www.google.com/flights
+	https://podcasts.google.com/
 	
     
     
       
     
-    Google Flights
+    Google Podcasts
     
 Good Link, depth: 2
 	https://www.google.com/streetview/earn/
@@ -1378,15 +1322,6 @@ Good Link, depth: 2
     Google TV
     
 Good Link, depth: 2
-	https://www.google.com/maps/about/
-	
-    
-    
-      
-    
-    Maps
-    
-Good Link, depth: 2
 	https://workspace.google.com/
 	
     
@@ -1405,139 +1340,13 @@ Good Link, depth: 2
     Hangouts
     
 Good Link, depth: 2
-	https://gsuite.google.com/products/meet/
+	https://www.google.com/get/cardboard/
 	
     
     
       
     
-    Google Meet
-    
-Good Link, depth: 2
-	https://news.google.com/
-	
-    
-    
-      
-    
-    News
-    
-Good Link, depth: 2
-	https://gsuite.google.com/products/chat/
-	
-    
-    
-      
-    
-    Google Chat
-    
-Good Link, depth: 2
-	https://store.google.com/product/pixel_buds
-	
-    
-    
-      
-    
-    Pixel Buds
-    
-Good Link, depth: 2
-	https://store.google.com/category/laptops_tablets
-	
-    
-    
-      
-    
-    Pixelbook
-    
-Good Link, depth: 2
-	https://www.google.com/photos/about
-	
-    
-    
-      
-    
-    Google Photos
-    
-Good Link, depth: 2
-	https://www.google.com/search/about/
-	
-    
-    
-      
-    
-    Search
-    
-Good Link, depth: 2
-	https://play.google.com/store?hl=en
-	
-    
-    
-      
-    
-    Google Play
-    
-Good Link, depth: 2
-	https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US
-	
-    
-    
-      
-    
-    Snapseed
-    
-Good Link, depth: 2
-	https://www.tiltbrush.com/
-	
-    
-    
-      
-    
-    Tilt Brush
-    
-Good Link, depth: 2
-	https://www.android.com/play-protect/
-	
-    
-    
-      
-    
-    Google Play Protect
-    
-Good Link, depth: 2
-	https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout
-	
-    
-    
-      
-    
-    Sheets
-    
-Good Link, depth: 2
-	https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=en
-	
-    
-    
-      
-    
-    Google Play Games
-    
-Good Link, depth: 2
-	https://shopping.google.com/u/0/
-	
-    
-    
-      
-    
-    Google Shopping
-    
-Good Link, depth: 2
-	https://assistant.google.com/business/
-	
-    
-    
-      
-    
-    Google Assistant
+    Cardboard
     
 Good Link, depth: 2
 	https://messages.google.com/
@@ -1549,6 +1358,15 @@ Good Link, depth: 2
     Messages
     
 Good Link, depth: 2
+	https://news.google.com/
+	
+    
+    
+      
+    
+    News
+    
+Good Link, depth: 2
 	https://store.google.com/category/phones
 	
     
@@ -1558,76 +1376,40 @@ Good Link, depth: 2
     Pixel
     
 Good Link, depth: 2
-	https://scholar.google.com/intl/en-US/scholar/about.html
+	https://store.google.com/product/pixel_buds
 	
     
     
       
     
-    Scholar
+    Pixel Buds
     
 Good Link, depth: 2
-	https://sites.google.com/new
+	https://fi.google.com/about/
 	
     
     
       
     
-    Sites
+    Google Fi
     
 Good Link, depth: 2
-	https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout
+	https://www.google.com/search/about/
 	
     
     
       
     
-    Docs
+    Search
     
 Good Link, depth: 2
-	https://voice.google.com
+	https://www.google.com/chromebook/
 	
     
     
       
     
-    Voice
-    
-Good Link, depth: 2
-	https://www.google.com/finance
-	
-    
-    
-      
-    
-    Finance
-    
-Good Link, depth: 2
-	https://www.google.com/keep/
-	
-    
-    
-      
-    
-    Keep
-    
-Good Link, depth: 2
-	https://www.google.co.in/edu/expeditions/
-	
-    
-    
-      
-    
-    Google Expeditions
-    
-Good Link, depth: 2
-	https://play.google.com/about/play-pass/
-	
-    
-    
-      
-    
-    Google Play Pass
+    Chromebook
     
 Good Link, depth: 2
 	https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout
@@ -1639,112 +1421,13 @@ Good Link, depth: 2
     Slides
     
 Good Link, depth: 2
-	https://www.youtube.com/yt/about/
+	https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_US
 	
     
     
       
     
-    YouTube
-    
-Good Link, depth: 2
-	https://youtube-global.blogspot.com/2015/02/youtube-kids.html
-	
-    
-    
-      
-    
-    YouTube Kids
-    
-Good Link, depth: 2
-	https://tv.youtube.com?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout
-	
-    
-    
-      
-    
-    YouTube TV
-    
-Good Link, depth: 2
-	https://vr.youtube.com/
-	
-    
-    
-      
-    
-    YouTube VR
-    
-Good Link, depth: 2
-	https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more
-	
-    
-    
-      
-    
-    AdSense
-    
-Good Link, depth: 2
-	https://www.google.com/analytics/optimize/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=optimize-icon
-	
-    
-    
-      
-    
-    Optimize
-    
-Good Link, depth: 2
-	https://one.google.com
-	
-    
-    
-      
-    
-    Google One
-    
-Good Link, depth: 2
-	https://businessmessages.google
-	
-    
-    
-      
-    
-    Business Messages
-    
-Good Link, depth: 2
-	https://www.google.com/business/go/businessprofile/
-	
-    
-    
-      
-    
-    Business Profile
-    
-Good Link, depth: 2
-	https://www.waze.com/
-	
-    
-    
-      
-    
-    Waze
-    
-Good Link, depth: 2
-	https://www.google.com/analytics/data-studio/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=data-studio-icon
-	
-    
-    
-      
-    
-    Data Studio
-    
-Good Link, depth: 2
-	https://wearos.google.com/
-	
-    
-    
-      
-    
-    Wear OS by Google
+    Snapseed
     
 Good Link, depth: 2
 	https://translate.google.com/about
@@ -1756,13 +1439,46 @@ Good Link, depth: 2
     Translate
     
 Good Link, depth: 2
-	https://domains.google.com/about/
+	https://www.google.com/travel/
 	
     
     
       
     
-    Google Domains
+    Travel
+    
+Good Link, depth: 2
+	https://grow.google/certificates/?utm_source=gDigital&utm_medium=empro-aboutsite&utm_campaign=aboutpage&utm_content=aboutgoogle
+	
+    
+      
+        
+      
+      
+        Google Career Certificates
+Discover  flexible online training programs designed to fast track you to jobs in high-growth fields.      
+          
+            Learn more
+          
+        
+  
+Good Link, depth: 2
+	https://wearos.google.com/
+	
+    
+    
+      
+    
+    Wear OS by Google
+    
+Good Link, depth: 2
+	https://health.google/for-everyone/health-studies?utm_source=about_google&utm_medium=web&utm_content=products
+	
+    
+    
+      
+    
+    Google Health Studies
     
 Good Link, depth: 2
 	https://www.youtube.com/musicpremium
@@ -1772,6 +1488,114 @@ Good Link, depth: 2
       
     
     YouTube Music
+    
+Good Link, depth: 2
+	https://www.google.com/inputtools/
+	
+    
+    
+      
+    
+    Google Input Tools
+    
+Good Link, depth: 2
+	https://www.google.com/admob/?utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon
+	
+    
+    
+      
+    
+    AdMob
+    
+Good Link, depth: 2
+	https://lens.google.com/#
+	
+    
+    
+      
+    
+    Google Lens
+    
+Good Link, depth: 2
+	https://enterprise.google.com/android/
+	
+    
+    
+      
+    
+    Android
+    
+Good Link, depth: 2
+	https://businessmessages.google
+	
+    
+    
+      
+    
+    Business Messages
+    
+Good Link, depth: 2
+	https://www.google.com/earth/
+	
+    
+    
+      
+    
+    Earth
+    
+Good Link, depth: 2
+	https://remotedesktop.google.com/
+	
+    
+    
+      
+    
+    Chrome Remote Desktop
+    
+Good Link, depth: 2
+	https://admanager.google.com/home/
+	
+    
+    
+      
+    
+    Google Ad Manager
+    
+Good Link, depth: 2
+	https://www.google.com/photos/about
+	
+    
+    
+      
+    
+    Google Photos
+    
+Good Link, depth: 2
+	https://play.google.com/store?hl=en
+	
+    
+    
+      
+    
+    Google Play
+    
+Good Link, depth: 2
+	https://cloud.google.com/
+	
+    
+    
+      
+    
+    Google Cloud
+    
+Good Link, depth: 2
+	https://domains.google.com/about/
+	
+    
+    
+      
+    
+    Google Domains
     
 Good Link, depth: 2
 	https://enterprise.google.com/maps/products/mapsapi.html
@@ -1792,13 +1616,22 @@ Good Link, depth: 2
     Google Marketing Platform
     
 Good Link, depth: 2
-	https://podcastsmanager.google.com/
+	https://www.google.com/retail/merchant-center/
 	
     
     
       
     
-    Google Podcasts Manager
+    Google Merchant Center
+    
+Good Link, depth: 2
+	https://www.google.com/alerts
+	
+    
+    
+      
+    
+    Google Alerts
     
 Good Link, depth: 2
 	https://www.google.com/webdesigner/
@@ -1810,220 +1643,31 @@ Good Link, depth: 2
     Google Web Designer
     
 Good Link, depth: 2
-	https://www.google.com/retail/merchant-center/
+	https://shopping.google.com/u/0/
 	
     
     
       
     
-    Google Merchant Center
+    Google Shopping
     
 Good Link, depth: 2
-	https://enterprise.google.com/android/
+	https://www.google.com/analytics/optimize/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=optimize-icon
 	
     
     
       
     
-    Android
+    Optimize
     
 Good Link, depth: 2
-	https://pixel.google/business/
+	https://www.android.com/tv/
 	
     
     
       
     
-    Pixel for Business
-    
-Good Link, depth: 2
-	https://www.blogger.com/features
-	
-    
-    
-      
-    
-    Blogger
-    
-Good Link, depth: 2
-	https://www.google.com/tagmanager/
-	
-    
-    
-      
-    
-    Tag Manager
-    
-Good Link, depth: 2
-	https://www.google.com/photos/scan/
-	
-    
-    
-      
-    
-    PhotoScan
-    
-Good Link, depth: 2
-	https://developers.google.com/analytics
-	
-    
-    
-      
-    
-    Analytics
-    
-Good Link, depth: 2
-	https://developer.android.com/
-	
-    
-    
-      
-    
-    Android
-    
-Good Link, depth: 2
-	https://admanager.google.com/home/
-	
-    
-    
-      
-    
-    Google Ad Manager
-    
-Good Link, depth: 2
-	https://cloud.google.com/
-	
-    
-    
-      
-    
-    Google Cloud
-    
-Good Link, depth: 2
-	https://learndigital.withgoogle.com/digitalgarage?utm_source=Engagement&utm_medium=ep&utm_term=ep&utm_content=Other_EP_PP&utm_campaign=Q2_2017_EP_ProductPage
-	
-    
-    
-      
-    
-    Google Digital Garage
-    
-Good Link, depth: 2
-	https://www.google.com/admob/?utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon
-	
-    
-    
-      
-    
-    AdMob
-    
-Good Link, depth: 2
-	https://www.google.com/trends/
-	
-    
-    
-      
-    
-    Google Trends
-    
-Good Link, depth: 2
-	https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app&hl=en_US
-	
-    
-    
-      
-    
-    Google Home App
-    
-Good Link, depth: 2
-	https://www.google.com/retail/solutions/
-	
-    
-    
-      
-    
-    Google for Retail
-    
-Good Link, depth: 2
-	https://www.google.com/analytics/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=analytics-card
-	
-    
-    
-      
-    
-    Analytics
-    
-Good Link, depth: 2
-	https://developers.google.com/admob
-	
-    
-    
-      
-    
-    AdMob
-    
-Good Link, depth: 2
-	https://developers.google.com/business-communications/business-messages/guides
-	
-    
-    
-      
-    
-    Business Messages
-    
-Good Link, depth: 2
-	https://ads.google.com/intl/en_us/getstarted/
-	
-    
-    
-      
-    
-    Google Ads
-    
-Good Link, depth: 2
-	https://podcasts.google.com/
-	
-    
-    
-      
-    
-    Google Podcasts
-    
-Good Link, depth: 2
-	https://www.google.com/webmasters/tools/home?hl=en
-	
-    
-    
-      
-    
-    Search Console
-    
-Good Link, depth: 2
-	https://chromeenterprise.google
-	
-    
-    
-      
-    
-    Chrome Enterprise
-    
-Good Link, depth: 2
-	https://biz.waze.com/
-	
-    
-    
-      
-    
-    Waze Local
-    
-Good Link, depth: 2
-	https://www.google.com/retail/solutions/manufacturer-center/
-	
-    
-    
-      
-    
-    Google Manufacturer Center
+    Android TV
     
 Good Link, depth: 2
 	https://www.google.com/analytics/surveys/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=surveys-icon
@@ -2035,13 +1679,67 @@ Good Link, depth: 2
     Surveys
     
 Good Link, depth: 2
-	https://remotedesktop.google.com/
+	https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=en_US
 	
     
     
       
     
-    Chrome Remote Desktop
+    Google Tasks
+    
+Good Link, depth: 2
+	https://developers.google.com/admob
+	
+    
+    
+      
+    
+    AdMob
+    
+Good Link, depth: 2
+	https://www.google.com/keep/
+	
+    
+    
+      
+    
+    Keep
+    
+Good Link, depth: 2
+	https://duo.google.com/about/
+	
+    
+    
+      
+    
+    Google Duo
+    
+Good Link, depth: 2
+	https://chrome.google.com/webstore/category/apps
+	
+    
+    
+      
+    
+    Chrome Enterprise
+    
+Good Link, depth: 2
+	https://store.google.com/category/laptops_tablets
+	
+    
+    
+      
+    
+    Pixelbook
+    
+Good Link, depth: 2
+	https://developers.google.com/business-communications/business-messages/guides
+	
+    
+    
+      
+    
+    Business Messages
     
 Good Link, depth: 2
 	https://firebase.google.com/
@@ -2080,13 +1778,13 @@ Good Link, depth: 2
     Google Pay
     
 Good Link, depth: 2
-	https://developers.google.com/interactive-media-ads
+	https://developer.android.com/distribute/
 	
     
     
       
     
-    Interactive Media Ads
+    Google Play
     
 Good Link, depth: 2
 	https://developers.google.com/search
@@ -2098,13 +1796,416 @@ Good Link, depth: 2
     Search
     
 Good Link, depth: 2
-	https://developer.android.com/distribute/
+	https://www.tiltbrush.com/
 	
     
     
       
     
-    Google Play
+    Tilt Brush
+    
+Good Link, depth: 2
+	https://developers.google.com/youtube
+	
+    
+    
+      
+    
+    YouTube
+    
+Good Link, depth: 2
+	https://www.google.com/flights
+	
+    
+    
+      
+    
+    Google Flights
+    
+Good Link, depth: 2
+	https://www.youtube.com/user/Google
+	
+                    
+  
+
+
+
+              
+Good Link, depth: 2
+	https://voice.google.com
+	
+    
+    
+      
+    
+    Voice
+    
+Good Link, depth: 2
+	https://support.google.com/?hl=en/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Help center
+                
+Good Link, depth: 2
+	https://www.blog.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Blog
+                
+Good Link, depth: 2
+	https://www.blog.google/press/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Press resources
+                
+Good Link, depth: 2
+	https://ads.google.com/home/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google Ads
+                
+Good Link, depth: 2
+	https://www.youtube.com/yt/about/
+	
+    
+    
+      
+    
+    YouTube
+    
+Good Link, depth: 2
+	https://cloud.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google Cloud
+                
+Good Link, depth: 2
+	https://youtube-global.blogspot.com/2015/02/youtube-kids.html
+	
+    
+    
+      
+    
+    YouTube Kids
+    
+Good Link, depth: 2
+	https://www.google.com/maps/about/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google Maps
+                
+Good Link, depth: 2
+	https://tv.youtube.com?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout
+	
+    
+    
+      
+    
+    YouTube TV
+    
+Good Link, depth: 2
+	https://abc.xyz/investor/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Investor relations
+                
+Good Link, depth: 2
+	https://smallbusiness.withgoogle.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google for Small Business
+                
+Good Link, depth: 2
+	https://workspace.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google Workspace
+                
+Good Link, depth: 2
+	https://www.youtube.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  YouTube
+                
+Good Link, depth: 2
+	https://www.google.com/accessibility/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Accessibility
+                
+Good Link, depth: 2
+	https://wellbeing.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Digital wellbeing
+                
+Good Link, depth: 2
+	https://www.blogger.com/features
+	
+    
+    
+      
+    
+    Blogger
+    
+Good Link, depth: 2
+	https://grow.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Grow with Google
+                
+Good Link, depth: 2
+	https://safety.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Safety Center
+                
+Good Link, depth: 2
+	https://sustainability.google/progress/?utm_source=about&utm_medium=referral&utm_campaign=footer-link/#supplier-responsibility
+	
+                  Supplier responsibility
+                
+Good Link, depth: 2
+	https://transparencyreport.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Transparency report
+                
+Good Link, depth: 2
+	https://chromeenterprise.google
+	
+    
+    
+      
+    
+    Chrome Enterprise
+    
+Good Link, depth: 2
+	https://policies.google.com/privacy?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+Privacy
+          
+Good Link, depth: 2
+	https://pay.google.com/about/
+	
+    
+    
+      
+    
+    Google Pay
+    
+Good Link, depth: 2
+	https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=en
+	
+    
+    
+      
+    
+    Google Play Games
+    
+Good Link, depth: 2
+	https://www.google.com/retail/solutions/manufacturer-center/
+	
+    
+    
+      
+    
+    Google Manufacturer Center
+    
+Good Link, depth: 2
+	https://podcastsmanager.google.com/
+	
+    
+    
+      
+    
+    Google Podcasts Manager
+    
+Good Link, depth: 2
+	https://www.google.com/retail/solutions/
+	
+    
+    
+      
+    
+    Google for Retail
+    
+Good Link, depth: 2
+	https://www.google.com/webmasters/tools/home?hl=en
+	
+    
+    
+      
+    
+    Search Console
+    
+Good Link, depth: 2
+	https://biz.waze.com/
+	
+    
+    
+      
+    
+    Waze Local
+    
+Good Link, depth: 2
+	https://www.google.com/maps/about/
+	
+    
+    
+      
+    
+    Maps
+    
+Good Link, depth: 2
+	https://developers.google.com/analytics
+	
+    
+    
+      
+    
+    Analytics
+    
+Good Link, depth: 2
+	https://scholar.google.com/intl/en-US/scholar/about.html
+	
+    
+    
+      
+    
+    Scholar
+    
+Good Link, depth: 2
+	https://sites.google.com/new
+	
+    
+    
+      
+    
+    Sites
+    
+Good Link, depth: 2
+	https://developers.google.com/interactive-media-ads
+	
+    
+    
+      
+    
+    Interactive Media Ads
+    
+Good Link, depth: 2
+	https://developers.google.com/web/
+	
+    
+    
+      
+    
+    Web
+    
+Good Link, depth: 2
+	https://instagram.com/google/
+	
+                      
+    
+  
+
+
+              
+Good Link, depth: 2
+	https://www.facebook.com/Google
+	
+                      
+    
+  
+
+
+              
+Good Link, depth: 2
+	https://www.waze.com/
+	
+    
+    
+      
+    
+    Waze
+    
+Good Link, depth: 2
+	https://www.android.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Android
+                
+Good Link, depth: 2
+	https://www.google.com/gmail/about/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Gmail
+                
+Good Link, depth: 2
+	https://www.google.com/chrome/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Chrome
+                
+Good Link, depth: 2
+	https://www.google.com/trends/
+	
+    
+    
+      
+    
+    Google Trends
+    
+Good Link, depth: 2
+	https://store.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google Store
+                
+Good Link, depth: 2
+	https://www.google.com/analytics/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=analytics-card
+	
+    
+    
+      
+    
+    Analytics
+    
+Good Link, depth: 2
+	https://diversity.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Diversity & inclusion
+                
+Good Link, depth: 2
+	https://www.google.com/business/go/businessprofile/
+	
+    
+    
+      
+    
+    Business Profile
+    
+Good Link, depth: 2
+	https://www.google.com/analytics/data-studio/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=data-studio-icon
+	
+    
+    
+      
+    
+    Data Studio
+    
+Good Link, depth: 2
+	https://policies.google.com/terms?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+Terms
+          
+Good Link, depth: 2
+	https://pixel.google/business/
+	
+    
+    
+      
+    
+    Pixel for Business
+    
+Good Link, depth: 2
+	https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+	
+    
+    
+      
+    
+    Google Authenticator
+    
+Good Link, depth: 2
+	https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout
+	
+    
+    
+      
+    
+    Sheets
     
 Good Link, depth: 2
 	https://www.tensorflow.org/
@@ -2116,28 +2217,7 @@ Good Link, depth: 2
     TensorFlow
     
 Good Link, depth: 2
-	https://developers.google.com/products/?hl=en
-	developer.google.com/products
-Good Link, depth: 2
-	https://developers.google.com/web/
-	
-    
-    
-      
-    
-    Web
-    
-Good Link, depth: 2
-	https://www.facebook.com/Google
-	
-                      
-    
-  
-
-
-              
-Good Link, depth: 2
-	https://instagram.com/google/
+	https://twitter.com/google
 	
                       
     
@@ -2151,162 +2231,29 @@ Good Link, depth: 2
                   Careers
                 
 Good Link, depth: 2
-	https://www.youtube.com/user/Google
-	
-                    
-  
-
-
-
-              
-Good Link, depth: 2
-	https://abc.xyz/investor/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Investor relations
-                
-Good Link, depth: 2
-	https://www.android.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Android
-                
-Good Link, depth: 2
-	https://support.google.com/?hl=en/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Help center
-                
-Good Link, depth: 2
-	https://www.blog.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Blog
-                
-Good Link, depth: 2
-	https://twitter.com/google
-	
-                      
-    
-  
-
-
-              
-Good Link, depth: 2
-	https://www.blog.google/press/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Press resources
-                
-Good Link, depth: 2
-	https://developers.google.com/youtube
-	
-    
-    
-      
-    
-    YouTube
-    
-Good Link, depth: 2
-	https://ads.google.com/home/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google Ads
-                
-Good Link, depth: 2
-	https://www.google.com/chrome/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Chrome
-                
-Good Link, depth: 2
-	https://cloud.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google Cloud
-                
-Good Link, depth: 2
-	https://edu.google.com?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google for Education
-                
-Good Link, depth: 2
-	https://www.google.com/maps/about/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google Maps
-                
-Good Link, depth: 2
-	https://www.google.com/gmail/about/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Gmail
-                
-Good Link, depth: 2
-	https://shopping.google.com/?nord=1?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google Shopping
-                
-Good Link, depth: 2
 	https://www.google.com/photos/about/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
 	
                   Google Photos
                 
 Good Link, depth: 2
-	https://play.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	https://vr.youtube.com/
 	
-                  Google Play
-                
+    
+    
+      
+    
+    YouTube VR
+    
 Good Link, depth: 2
-	https://workspace.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	https://www.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
 	
-                  Google Workspace
-                
-Good Link, depth: 2
-	https://smallbusiness.withgoogle.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google for Small Business
+                  Google Search
                 
 Good Link, depth: 2
 	https://crisisresponse.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
 	
                   Crisis response
                 
-Good Link, depth: 2
-	https://wellbeing.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Digital wellbeing
-                
-Good Link, depth: 2
-	https://www.google.org/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google.org
-                
-Good Link, depth: 2
-	https://store.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Google Store
-                
-Good Link, depth: 2
-	https://www.youtube.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  YouTube
-                
-Good Link, depth: 2
-	https://www.google.com/accessibility/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Accessibility
-                
-Good Link, depth: 2
-	https://sustainability.google/progress/?utm_source=about&utm_medium=referral&utm_campaign=footer-link/#supplier-responsibility
-	
-                  Supplier responsibility
-                
-Good Link, depth: 2
-	https://transparencyreport.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Transparency report
-                
-Good Link, depth: 2
-	https://diversity.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-                  Diversity & inclusion
-                
-Good Link, depth: 2
-	https://policies.google.com/terms?utm_source=about&utm_medium=referral&utm_campaign=footer-link
-	
-Terms
-          
 Good Link, depth: 2
 	https://learning.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
 	
@@ -2318,22 +2265,97 @@ Good Link, depth: 2
                   Sustainability
                 
 Good Link, depth: 2
-	https://policies.google.com/privacy?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	https://learndigital.withgoogle.com/digitalgarage?utm_source=Engagement&utm_medium=ep&utm_term=ep&utm_content=Other_EP_PP&utm_campaign=Q2_2017_EP_ProductPage
 	
-Privacy
-          
+    
+    
+      
+    
+    Google Digital Garage
+    
 Good Link, depth: 2
-	https://safety.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	https://www.google.com/tagmanager/
 	
-                  Safety Center
+    
+    
+      
+    
+    Tag Manager
+    
+Good Link, depth: 2
+	https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en
+	
+    
+    
+      
+    
+    Google Fit
+    
+Good Link, depth: 2
+	https://developer.android.com/
+	
+    
+    
+      
+    
+    Android
+    
+Good Link, depth: 2
+	https://shopping.google.com/?nord=1?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google Shopping
                 
 Good Link, depth: 2
-	https://www.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	https://play.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
 	
-                  Google Search
+                  Google Play
                 
 Good Link, depth: 2
-	https://grow.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	https://www.google.org/?utm_source=about&utm_medium=referral&utm_campaign=footer-link
 	
-                  Grow with Google
+                  Google.org
                 
+Good Link, depth: 2
+	https://play.google.com/about/play-pass/
+	
+    
+    
+      
+    
+    Google Play Pass
+    
+Good Link, depth: 2
+	https://www.google.com/photos/scan/
+	
+    
+    
+      
+    
+    PhotoScan
+    
+Good Link, depth: 2
+	https://edu.google.com?utm_source=about&utm_medium=referral&utm_campaign=footer-link
+	
+                  Google for Education
+                
+Good Link, depth: 2
+	https://developers.google.com/products/?hl=en
+	developer.google.com/products
+Good Link, depth: 2
+	https://ads.google.com/intl/en_us/getstarted/
+	
+    
+    
+      
+    
+    Google Ads
+    
+Good Link, depth: 2
+	https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more
+	
+    
+    
+      
+    
+    AdSense
+    
